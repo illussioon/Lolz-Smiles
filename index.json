@@ -1,0 +1,3347 @@
+[
+  {
+    "smile_pack_title": "smile",
+    "smiles": [
+      {
+        "smile_name": "Approve",
+        "smile_path": "/smile/smile/Approve.svg",
+        "smile_code": ":finger_up:"
+      },
+      {
+        "smile_name": "Disapprove",
+        "smile_path": "/smile/smile/Disapprove.webp",
+        "smile_code": ":finger_down:"
+      },
+      {
+        "smile_name": "Em",
+        "smile_path": "/smile/smile/Em.webp",
+        "smile_code": ":em:"
+      },
+      {
+        "smile_name": "Yes",
+        "smile_path": "/smile/smile/Yes.webp",
+        "smile_code": ":da:"
+      },
+      {
+        "smile_name": "Yes",
+        "smile_path": "/smile/smile/Yes.webp",
+        "smile_code": ":yes:"
+      },
+      {
+        "smile_name": "Peka",
+        "smile_path": "/smile/smile/Peka.webp",
+        "smile_code": ":peka:"
+      },
+      {
+        "smile_name": "fap",
+        "smile_path": "/smile/smile/fap.webp",
+        "smile_code": ":fap:"
+      },
+      {
+        "smile_name": "Ehh",
+        "smile_path": "/smile/smile/Ehh.webp",
+        "smile_code": ":ehh:"
+      },
+      {
+        "smile_name": "Krutoy",
+        "smile_path": "/smile/smile/Krutoy.webp",
+        "smile_code": ":krutoy:"
+      },
+      {
+        "smile_name": "Handshake",
+        "smile_path": "/smile/smile/Handshake.webp",
+        "smile_code": ":handshake:"
+      },
+      {
+        "smile_name": "left hand",
+        "smile_path": "/smile/smile/left hand.webp",
+        "smile_code": ":lefthand:"
+      },
+      {
+        "smile_name": "right hand",
+        "smile_path": "/smile/smile/right hand.webp",
+        "smile_code": ":righthand:"
+      },
+      {
+        "smile_name": "up hand",
+        "smile_path": "/smile/smile/up hand.webp",
+        "smile_code": ":uphand:"
+      },
+      {
+        "smile_name": "down hand",
+        "smile_path": "/smile/smile/down hand.webp",
+        "smile_code": ":downhand:"
+      },
+      {
+        "smile_name": "I Hand",
+        "smile_path": "/smile/smile/I Hand.webp",
+        "smile_code": ":ihand:"
+      },
+      {
+        "smile_name": "Pls",
+        "smile_path": "/smile/smile/Pls.webp",
+        "smile_code": ":pls:"
+      },
+      {
+        "smile_name": "PressF",
+        "smile_path": "/smile/smile/PressF.webp",
+        "smile_code": ":pressF:"
+      },
+      {
+        "smile_name": "Genius",
+        "smile_path": "/smile/smile/Genius.webp",
+        "smile_code": ":genius:"
+      },
+      {
+        "smile_name": "Brain",
+        "smile_path": "/smile/smile/Brain.webp",
+        "smile_code": ":BrainCosmic:"
+      },
+      {
+        "smile_name": "Thumbs up",
+        "smile_path": "/smile/smile/Thumbs up.webp",
+        "smile_code": ":thumbsup:"
+      },
+      {
+        "smile_name": "Thumbs down",
+        "smile_path": "/smile/smile/Thumbs down.webp",
+        "smile_code": ":thumbsdown:"
+      },
+      {
+        "smile_name": "Esketit",
+        "smile_path": "/smile/smile/Esketit.webp",
+        "smile_code": ":esketit:"
+      },
+      {
+        "smile_name": "Muscle",
+        "smile_path": "/smile/smile/Muscle.webp",
+        "smile_code": ":muscle:"
+      },
+      {
+        "smile_name": "WW",
+        "smile_path": "/smile/smile/WW.webp",
+        "smile_code": ":ww:"
+      },
+      {
+        "smile_name": "Dancing",
+        "smile_path": "/smile/smile/Dancing.webp",
+        "smile_code": ":dancing:"
+      },
+      {
+        "smile_name": "interesting",
+        "smile_path": "/smile/smile/interesting.webp",
+        "smile_code": ":interesting:"
+      },
+      {
+        "smile_name": "shreklol",
+        "smile_path": "/smile/smile/shreklol.webp",
+        "smile_code": ":shreklol:"
+      },
+      {
+        "smile_name": "Admin",
+        "smile_path": "/smile/smile/Admin.webp",
+        "smile_code": ":admin:"
+      },
+      {
+        "smile_name": "Moder",
+        "smile_path": "/smile/smile/Moder.webp",
+        "smile_code": ":moder:"
+      },
+      {
+        "smile_name": "Arbitr",
+        "smile_path": "/smile/smile/Arbitr.webp",
+        "smile_code": ":arbitr:"
+      },
+      {
+        "smile_name": "Curator",
+        "smile_path": "/smile/smile/Curator.webp",
+        "smile_code": ":curator:"
+      },
+      {
+        "smile_name": "Coder",
+        "smile_path": "/smile/smile/Coder.webp",
+        "smile_code": ":coder:"
+      },
+      {
+        "smile_name": "kidrun",
+        "smile_path": "/smile/smile/kidrun.webp",
+        "smile_code": ":kidrun:"
+      },
+      {
+        "smile_name": "Penguin",
+        "smile_path": "/smile/smile/Penguin.webp",
+        "smile_code": ":penguin:"
+      },
+      {
+        "smile_name": "Pwalk",
+        "smile_path": "/smile/smile/Pwalk.webp",
+        "smile_code": ":pwalk:"
+      },
+      {
+        "smile_name": "Thomas Shelby",
+        "smile_path": "/smile/smile/Thomas Shelby.webp",
+        "smile_code": ":thomas:"
+      },
+      {
+        "smile_name": "Dance",
+        "smile_path": "/smile/smile/Dance.webp",
+        "smile_code": ":dance:"
+      },
+      {
+        "smile_name": "Gigachad",
+        "smile_path": "/smile/smile/Gigachad.webp",
+        "smile_code": ":gigachad:"
+      },
+      {
+        "smile_name": "Gigachat music",
+        "smile_path": "/smile/smile/Gigachat music.webp",
+        "smile_code": ":gigamusic:"
+      },
+      {
+        "smile_name": "rooster talk",
+        "smile_path": "/smile/smile/rooster talk.webp",
+        "smile_code": ":rooster_talk:"
+      },
+      {
+        "smile_name": "rooster talk",
+        "smile_path": "/smile/smile/rooster talk.webp",
+        "smile_code": ":petush:"
+      },
+      {
+        "smile_name": "rooster lolz",
+        "smile_path": "/smile/smile/rooster lolz.webp",
+        "smile_code": ":rooster:"
+      },
+      {
+        "smile_name": "stone ebalo",
+        "smile_path": "/smile/smile/stone ebalo.webp",
+        "smile_code": ":stoneebalo:"
+      },
+      {
+        "smile_name": "Bowing",
+        "smile_path": "/smile/smile/Bowing.webp",
+        "smile_code": ":bowing:"
+      },
+      {
+        "smile_name": "madagascar",
+        "smile_path": "/smile/smile/madagascar.webp",
+        "smile_code": ":madagascar:"
+      },
+      {
+        "smile_name": "Nice",
+        "smile_path": "/smile/smile/Nice.webp",
+        "smile_code": ":cool_bun:"
+      },
+      {
+        "smile_name": "Falling",
+        "smile_path": "/smile/smile/Falling.webp",
+        "smile_code": ":falling:"
+      },
+      {
+        "smile_name": "Shiza",
+        "smile_path": "/smile/smile/Shiza.webp",
+        "smile_code": ":shiza:"
+      },
+      {
+        "smile_name": "Thinking",
+        "smile_path": "/smile/smile/Thinking.webp",
+        "smile_code": ":thinking:"
+      },
+      {
+        "smile_name": "Peace",
+        "smile_path": "/smile/smile/Peace.webp",
+        "smile_code": ":peace:"
+      },
+      {
+        "smile_name": "sigma",
+        "smile_path": "/smile/smile/sigma.webp",
+        "smile_code": ":sigma:"
+      },
+      {
+        "smile_name": "xd",
+        "smile_path": "/smile/smile/xd.webp",
+        "smile_code": ":xd:"
+      },
+      {
+        "smile_name": "Clown",
+        "smile_path": "/smile/smile/Clown.webp",
+        "smile_code": ":clown:"
+      },
+      {
+        "smile_name": "Facepalm",
+        "smile_path": "/smile/smile/Facepalm.webp",
+        "smile_code": ":facepalm:"
+      },
+      {
+        "smile_name": "Breaking",
+        "smile_path": "/smile/smile/Breaking.webp",
+        "smile_code": ":break:"
+      },
+      {
+        "smile_name": "Stonks Up",
+        "smile_path": "/smile/smile/Stonks Up.webp",
+        "smile_code": ":stonks_up:"
+      },
+      {
+        "smile_name": "Stonks Down",
+        "smile_path": "/smile/smile/Stonks Down.webp",
+        "smile_code": ":stonks_down:"
+      },
+      {
+        "smile_name": "Press F",
+        "smile_path": "/smile/smile/Press F.webp",
+        "smile_code": ":press_f:"
+      },
+      {
+        "smile_name": "Take my money",
+        "smile_path": "/smile/smile/Take my money.webp",
+        "smile_code": ":takeMyMoney:"
+      },
+      {
+        "smile_name": "Bober",
+        "smile_path": "/smile/smile/Bober.webp",
+        "smile_code": ":bober:"
+      },
+      {
+        "smile_name": "Claps",
+        "smile_path": "/smile/smile/Claps.webp",
+        "smile_code": ":claps:"
+      },
+      {
+        "smile_name": "Cry about it",
+        "smile_path": "/smile/smile/Cry about it.webp",
+        "smile_code": ":cai:"
+      },
+      {
+        "smile_name": "Capybara",
+        "smile_path": "/smile/smile/Capybara.webp",
+        "smile_code": ":capybara:"
+      },
+      {
+        "smile_name": "Da ti cho",
+        "smile_path": "/smile/smile/Da ti cho.webp",
+        "smile_code": ":da_ti_cho:"
+      },
+      {
+        "smile_name": "Who the fuck?",
+        "smile_path": "/smile/smile/Who the fuck_.webp",
+        "smile_code": ":Ktonahuy:"
+      },
+      {
+        "smile_name": "Liar",
+        "smile_path": "/smile/smile/Liar.webp",
+        "smile_code": ":liar:"
+      },
+      {
+        "smile_name": "Sasha",
+        "smile_path": "/smile/smile/Sasha.webp",
+        "smile_code": ":sasha:"
+      },
+      {
+        "smile_name": "Obeme",
+        "smile_path": "/smile/smile/Obeme.webp",
+        "smile_code": ":obeme:"
+      },
+      {
+        "smile_name": "Okak",
+        "smile_path": "/smile/smile/Okak.webp",
+        "smile_code": ":okak:"
+      },
+      {
+        "smile_name": "donate",
+        "smile_path": "/smile/smile/donate.webp",
+        "smile_code": ":donate:"
+      },
+      {
+        "smile_name": "Hamster",
+        "smile_path": "/smile/smile/Hamster.webp",
+        "smile_code": ":hamster:"
+      },
+      {
+        "smile_name": "What?",
+        "smile_path": "/smile/smile/What_.webp",
+        "smile_code": ":ne_ponyal:"
+      },
+      {
+        "smile_name": "babyyoda",
+        "smile_path": "/smile/smile/babyyoda.webp",
+        "smile_code": ":babyyoda:"
+      },
+      {
+        "smile_name": "Chill eat",
+        "smile_path": "/smile/smile/Chill eat.webp",
+        "smile_code": ":chilleat:"
+      },
+      {
+        "smile_name": "yoda luv",
+        "smile_path": "/smile/smile/yoda luv.webp",
+        "smile_code": ":yodaluv:"
+      },
+      {
+        "smile_name": "Shit",
+        "smile_path": "/smile/smile/Shit.webp",
+        "smile_code": ":kakashka:"
+      },
+      {
+        "smile_name": "Dog",
+        "smile_path": "/smile/smile/Dog.webp",
+        "smile_code": ":dog:"
+      },
+      {
+        "smile_name": "Dog smile",
+        "smile_path": "/smile/smile/Dog smile.webp",
+        "smile_code": ":dog_smile:"
+      },
+      {
+        "smile_name": "roflanDog",
+        "smile_path": "/smile/smile/roflanDog.webp",
+        "smile_code": ":roflanDog:"
+      },
+      {
+        "smile_name": "What is happening",
+        "smile_path": "/smile/smile/What is happening.webp",
+        "smile_code": ":dog_wtf:"
+      },
+      {
+        "smile_name": "Dog facepalm",
+        "smile_path": "/smile/smile/Dog facepalm.webp",
+        "smile_code": ":dogfacepalm:"
+      },
+      {
+        "smile_name": "Batonus",
+        "smile_path": "/smile/smile/Batonus.webp",
+        "smile_code": ":batonus:"
+      },
+      {
+        "smile_name": "Batyaa run",
+        "smile_path": "/smile/smile/Batyaa run.webp",
+        "smile_code": ":batyaarun:"
+      },
+      {
+        "smile_name": "Stitch Sleep",
+        "smile_path": "/smile/smile/Stitch Sleep.webp",
+        "smile_code": ":stitchsleep:"
+      },
+      {
+        "smile_name": "Stitch love",
+        "smile_path": "/smile/smile/Stitch love.webp",
+        "smile_code": ":stitch_love:"
+      },
+      {
+        "smile_name": "Stitch sad",
+        "smile_path": "/smile/smile/Stitch sad.webp",
+        "smile_code": ":stitchsad:"
+      },
+      {
+        "smile_name": "Stitch",
+        "smile_path": "/smile/smile/Stitch.webp",
+        "smile_code": ":stitch:"
+      },
+      {
+        "smile_name": "Stitch sad",
+        "smile_path": "/smile/smile/Stitch sad.webp",
+        "smile_code": ":stitchsad2:"
+      },
+      {
+        "smile_name": "stitch cute",
+        "smile_path": "/smile/smile/stitch cute.webp",
+        "smile_code": ":stitchcute:"
+      },
+      {
+        "smile_name": "Cute dog",
+        "smile_path": "/smile/smile/Cute dog.webp",
+        "smile_code": ":cutedog:"
+      },
+      {
+        "smile_name": "Smile dog",
+        "smile_path": "/smile/smile/Smile dog.webp",
+        "smile_code": ":smile_dog:"
+      },
+      {
+        "smile_name": "sobaken",
+        "smile_path": "/smile/smile/sobaken.gif",
+        "smile_code": ":sobaken:"
+      },
+      {
+        "smile_name": "Fox Jump",
+        "smile_path": "/smile/smile/Fox Jump.webp",
+        "smile_code": ":fox_jump:"
+      },
+      {
+        "smile_name": "Smile dog",
+        "smile_path": "/smile/smile/Smile dog.webp",
+        "smile_code": ":smiledog:"
+      },
+      {
+        "smile_name": "Police bear",
+        "smile_path": "/smile/smile/Police bear.webp",
+        "smile_code": ":policebear:"
+      },
+      {
+        "smile_name": "Pig yes",
+        "smile_path": "/smile/smile/Pig yes.webp",
+        "smile_code": ":pigyes:"
+      },
+      {
+        "smile_name": "Pig nope",
+        "smile_path": "/smile/smile/Pig nope.webp",
+        "smile_code": ":pignope:"
+      },
+      {
+        "smile_name": "pig",
+        "smile_path": "/smile/smile/pig.webp",
+        "smile_code": ":pig:"
+      },
+      {
+        "smile_name": "mine pig",
+        "smile_path": "/smile/smile/mine pig.webp",
+        "smile_code": ":minepig:"
+      },
+      {
+        "smile_name": "Mini pig",
+        "smile_path": "/smile/smile/Mini pig.webp",
+        "smile_code": ":minipig:"
+      },
+      {
+        "smile_name": "Pig chill",
+        "smile_path": "/smile/smile/Pig chill.webp",
+        "smile_code": ":pigchill:"
+      },
+      {
+        "smile_name": "Pig smile",
+        "smile_path": "/smile/smile/Pig smile.webp",
+        "smile_code": ":pigsmile:"
+      },
+      {
+        "smile_name": "Dog party",
+        "smile_path": "/smile/smile/Dog party.webp",
+        "smile_code": ":dogparty:"
+      },
+      {
+        "smile_name": "bush",
+        "smile_path": "/smile/smile/bush.webp",
+        "smile_code": ":bush:"
+      },
+      {
+        "smile_name": "Mamooth",
+        "smile_path": "/smile/smile/Mamooth.webp",
+        "smile_code": ":mammoth:"
+      },
+      {
+        "smile_name": "Revolt",
+        "smile_path": "/smile/smile/Revolt.webp",
+        "smile_code": ":revolt:"
+      },
+      {
+        "smile_name": "nigga what",
+        "smile_path": "/smile/smile/nigga what.webp",
+        "smile_code": ":niggawhat:"
+      },
+      {
+        "smile_name": "Gomer Hide",
+        "smile_path": "/smile/smile/Gomer Hide.webp",
+        "smile_code": ":gomerhide:"
+      },
+      {
+        "smile_name": "Vinny",
+        "smile_path": "/smile/smile/Vinny.webp",
+        "smile_code": ":vinny:"
+      },
+      {
+        "smile_name": "Kek",
+        "smile_path": "/smile/smile/Kek.webp",
+        "smile_code": ":kek:"
+      },
+      {
+        "smile_name": "Jacque Fresco",
+        "smile_path": "/smile/smile/Jacque Fresco.webp",
+        "smile_code": ":jacquefresco:"
+      },
+      {
+        "smile_name": "Drink shit",
+        "smile_path": "/smile/smile/Drink shit.webp",
+        "smile_code": ":drink_shit:"
+      },
+      {
+        "smile_name": "Ban",
+        "smile_path": "/smile/smile/Ban.webp",
+        "smile_code": ":ban:"
+      },
+      {
+        "smile_name": "Toilet",
+        "smile_path": "/smile/smile/Toilet.webp",
+        "smile_code": ":toilet:"
+      },
+      {
+        "smile_name": "Anal plug",
+        "smile_path": "/smile/smile/Anal plug.webp",
+        "smile_code": ":analplug:"
+      },
+      {
+        "smile_name": "Card",
+        "smile_path": "/smile/smile/Card.webp",
+        "smile_code": ":card:"
+      },
+      {
+        "smile_name": "Trash",
+        "smile_path": "/smile/smile/Trash.webp",
+        "smile_code": ":trash:"
+      },
+      {
+        "smile_name": "Garbage",
+        "smile_path": "/smile/smile/Garbage.webp",
+        "smile_code": ":garbage:"
+      },
+      {
+        "smile_name": "Bottle",
+        "smile_path": "/smile/smile/Bottle.webp",
+        "smile_code": ":bottle:"
+      },
+      {
+        "smile_name": "Beer",
+        "smile_path": "/smile/smile/Beer.webp",
+        "smile_code": ":beer:"
+      },
+      {
+        "smile_name": "love",
+        "smile_path": "/smile/smile/love.webp",
+        "smile_code": ":love2:"
+      },
+      {
+        "smile_name": "SCAM",
+        "smile_path": "/smile/smile/SCAM.svg",
+        "smile_code": ":scam:"
+      },
+      {
+        "smile_name": "+rep",
+        "smile_path": "/smile/smile/+rep.webp",
+        "smile_code": ":+rep:"
+      },
+      {
+        "smile_name": "+rep",
+        "smile_path": "/smile/smile/+rep.webp",
+        "smile_code": ":+реп:"
+      },
+      {
+        "smile_name": "-Rep",
+        "smile_path": "/smile/smile/-Rep.webp",
+        "smile_code": ":-rep:"
+      },
+      {
+        "smile_name": "-Rep",
+        "smile_path": "/smile/smile/-Rep.webp",
+        "smile_code": ":-реп:"
+      },
+      {
+        "smile_name": "forsenGun",
+        "smile_path": "/smile/smile/forsenGun.webp",
+        "smile_code": ":forsenGun:"
+      },
+      {
+        "smile_name": "New Love",
+        "smile_path": "/smile/smile/New Love.webp",
+        "smile_code": ":love:"
+      },
+      {
+        "smile_name": "Omg",
+        "smile_path": "/smile/smile/Omg.webp",
+        "smile_code": ":omg:"
+      },
+      {
+        "smile_name": "Nerd",
+        "smile_path": "/smile/smile/Nerd.webp",
+        "smile_code": ":nerd:"
+      },
+      {
+        "smile_name": "Yupiyei",
+        "smile_path": "/smile/smile/Yupiyei.webp",
+        "smile_code": ":yupiyei:"
+      },
+      {
+        "smile_name": "Muted",
+        "smile_path": "/smile/smile/Muted.webp",
+        "smile_code": ":muted:"
+      },
+      {
+        "smile_name": "Amogus",
+        "smile_path": "/smile/smile/Amogus.webp",
+        "smile_code": ":amogus:"
+      },
+      {
+        "smile_name": "Pog",
+        "smile_path": "/smile/smile/Pog.webp",
+        "smile_code": ":pog:"
+      },
+      {
+        "smile_name": "Sad hamster",
+        "smile_path": "/smile/smile/Sad hamster.webp",
+        "smile_code": ":sadhamster:"
+      },
+      {
+        "smile_name": "Kirbi",
+        "smile_path": "/smile/smile/Kirbi.webp",
+        "smile_code": ":kirbi:"
+      },
+      {
+        "smile_name": "cat dance",
+        "smile_path": "/smile/smile/cat dance.webp",
+        "smile_code": ":catdance:"
+      },
+      {
+        "smile_name": "Arnold Stop",
+        "smile_path": "/smile/smile/Arnold Stop.webp",
+        "smile_code": ":arnold:"
+      },
+      {
+        "smile_name": "YanToples",
+        "smile_path": "/smile/smile/YanToples.webp",
+        "smile_code": ":yan_toples:"
+      },
+      {
+        "smile_name": "Br Br Patapim",
+        "smile_path": "/smile/smile/Br Br Patapim.webp",
+        "smile_code": ":brbrpatapim:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Roflan",
+    "smiles": [
+      {
+        "smile_name": "roflanFacepalm",
+        "smile_path": "/smile/Roflan/roflanFacepalm.webp",
+        "smile_code": ":roflanFacepalm:"
+      },
+      {
+        "smile_name": "Roflan what",
+        "smile_path": "/smile/Roflan/Roflan what.webp",
+        "smile_code": ":roflanSad:"
+      },
+      {
+        "smile_name": "Roflan pominki",
+        "smile_path": "/smile/Roflan/Roflan pominki.webp",
+        "smile_code": ":roflanpominki:"
+      },
+      {
+        "smile_name": "roflanOld",
+        "smile_path": "/smile/Roflan/roflanOld.webp",
+        "smile_code": ":roflanOld:"
+      },
+      {
+        "smile_name": "roflanPlz",
+        "smile_path": "/smile/Roflan/roflanPlz.webp",
+        "smile_code": ":roflanPlz:"
+      },
+      {
+        "smile_name": "Hello",
+        "smile_path": "/smile/Roflan/Hello.webp",
+        "smile_code": ":roflanZdarova:"
+      },
+      {
+        "smile_name": "Hmm",
+        "smile_path": "/smile/Roflan/Hmm.webp",
+        "smile_code": ":hmm:"
+      },
+      {
+        "smile_name": "Angry",
+        "smile_path": "/smile/Roflan/Angry.webp",
+        "smile_code": ":angry:"
+      },
+      {
+        "smile_name": "Err",
+        "smile_path": "/smile/Roflan/Err.webp",
+        "smile_code": ":fuu:"
+      },
+      {
+        "smile_name": "Fig",
+        "smile_path": "/smile/Roflan/Fig.webp",
+        "smile_code": ":fig:"
+      },
+      {
+        "smile_name": "roflanBuldiga",
+        "smile_path": "/smile/Roflan/roflanBuldiga.webp",
+        "smile_code": ":roflanBuldiga:"
+      },
+      {
+        "smile_name": "roflanSpy",
+        "smile_path": "/smile/Roflan/roflanSpy.webp",
+        "smile_code": ":roflanSpy:"
+      },
+      {
+        "smile_name": "Roflan",
+        "smile_path": "/smile/Roflan/Roflan.webp",
+        "smile_code": ":roflanebalo:"
+      },
+      {
+        "smile_name": "Poker face",
+        "smile_path": "/smile/Roflan/Poker face.webp",
+        "smile_code": ":roflanPoker:"
+      },
+      {
+        "smile_name": "For what?",
+        "smile_path": "/smile/Roflan/For what_.webp",
+        "smile_code": ":zachto:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Колобки 3D",
+    "smiles": [
+      {
+        "smile_name": "Colobok cool",
+        "smile_path": "/smile/Колобки 3D/Colobok cool.webp",
+        "smile_code": ":colobok_cool:"
+      },
+      {
+        "smile_name": "Colobok hi",
+        "smile_path": "/smile/Колобки 3D/Colobok hi.webp",
+        "smile_code": ":colobok_hi:"
+      },
+      {
+        "smile_name": "Colobok laugh",
+        "smile_path": "/smile/Колобки 3D/Colobok laugh.webp",
+        "smile_code": ":colobok_laugh:"
+      },
+      {
+        "smile_name": "Colobok fuck",
+        "smile_path": "/smile/Колобки 3D/Colobok fuck.webp",
+        "smile_code": ":colobok_fuck:"
+      },
+      {
+        "smile_name": "Colobok amazed",
+        "smile_path": "/smile/Колобки 3D/Colobok amazed.webp",
+        "smile_code": ":colobok_amazed:"
+      },
+      {
+        "smile_name": "Colobok love",
+        "smile_path": "/smile/Колобки 3D/Colobok love.webp",
+        "smile_code": ":colobok_love:"
+      },
+      {
+        "smile_name": "Colobok omg",
+        "smile_path": "/smile/Колобки 3D/Colobok omg.webp",
+        "smile_code": ":colobok_omg:"
+      },
+      {
+        "smile_name": "Cool",
+        "smile_path": "/smile/Колобки 3D/Cool.webp",
+        "smile_code": ":cool:"
+      },
+      {
+        "smile_name": "Colobok type",
+        "smile_path": "/smile/Колобки 3D/Colobok type.webp",
+        "smile_code": ":colobok_type:"
+      },
+      {
+        "smile_name": "Colobok dance",
+        "smile_path": "/smile/Колобки 3D/Colobok dance.webp",
+        "smile_code": ":colobok_dance:"
+      },
+      {
+        "smile_name": "Colobok shy",
+        "smile_path": "/smile/Колобки 3D/Colobok shy.webp",
+        "smile_code": ":colobok_shy:"
+      },
+      {
+        "smile_name": "Colobok cry",
+        "smile_path": "/smile/Колобки 3D/Colobok cry.webp",
+        "smile_code": ":colobok_cry:"
+      },
+      {
+        "smile_name": "Colobok kiss",
+        "smile_path": "/smile/Колобки 3D/Colobok kiss.webp",
+        "smile_code": ":colobok_kiss:"
+      },
+      {
+        "smile_name": "Colobok ok",
+        "smile_path": "/smile/Колобки 3D/Colobok ok.webp",
+        "smile_code": ":colobok_ok:"
+      },
+      {
+        "smile_name": "Colobok idk",
+        "smile_path": "/smile/Колобки 3D/Colobok idk.webp",
+        "smile_code": ":colobok_idk:"
+      },
+      {
+        "smile_name": "Colobok music",
+        "smile_path": "/smile/Колобки 3D/Colobok music.webp",
+        "smile_code": ":colobok_music:"
+      },
+      {
+        "smile_name": "Colobok crazy",
+        "smile_path": "/smile/Колобки 3D/Colobok crazy.webp",
+        "smile_code": ":colobok_crazy:"
+      },
+      {
+        "smile_name": "Colobok tishe",
+        "smile_path": "/smile/Колобки 3D/Colobok tishe.webp",
+        "smile_code": ":colobok_tishe:"
+      },
+      {
+        "smile_name": "Colobok molodec",
+        "smile_path": "/smile/Колобки 3D/Colobok molodec.webp",
+        "smile_code": ":colobok_molodec:"
+      },
+      {
+        "smile_name": "Colobok hot",
+        "smile_path": "/smile/Колобки 3D/Colobok hot.webp",
+        "smile_code": ":colobok_hot:"
+      },
+      {
+        "smile_name": "Colobok not cool",
+        "smile_path": "/smile/Колобки 3D/Colobok not cool.webp",
+        "smile_code": ":colobok_notcool:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Котики",
+    "smiles": [
+      {
+        "smile_name": "Surprised cat",
+        "smile_path": "/smile/Котики/Surprised cat.webp",
+        "smile_code": ":surprised_cat:"
+      },
+      {
+        "smile_name": "Cat boom",
+        "smile_path": "/smile/Котики/Cat boom.webp",
+        "smile_code": ":catboom:"
+      },
+      {
+        "smile_name": "Cat nerd",
+        "smile_path": "/smile/Котики/Cat nerd.webp",
+        "smile_code": ":catnerd:"
+      },
+      {
+        "smile_name": "Cat nerd 2",
+        "smile_path": "/smile/Котики/Cat nerd 2.webp",
+        "smile_code": ":catnerd2:"
+      },
+      {
+        "smile_name": "Cat huh",
+        "smile_path": "/smile/Котики/Cat huh.webp",
+        "smile_code": ":cat_huh:"
+      },
+      {
+        "smile_name": "Cat rar",
+        "smile_path": "/smile/Котики/Cat rar.webp",
+        "smile_code": ":cat_rar:"
+      },
+      {
+        "smile_name": "Cat nope",
+        "smile_path": "/smile/Котики/Cat nope.webp",
+        "smile_code": ":cat_nope:"
+      },
+      {
+        "smile_name": "Cat lay",
+        "smile_path": "/smile/Котики/Cat lay.webp",
+        "smile_code": ":cat_lay:"
+      },
+      {
+        "smile_name": "Cat aga",
+        "smile_path": "/smile/Котики/Cat aga.webp",
+        "smile_code": ":cat_aga:"
+      },
+      {
+        "smile_name": "sad cat",
+        "smile_path": "/smile/Котики/sad cat.webp",
+        "smile_code": ":sadcat:"
+      },
+      {
+        "smile_name": "Cat jump",
+        "smile_path": "/smile/Котики/Cat jump.webp",
+        "smile_code": ":cat_jump:"
+      },
+      {
+        "smile_name": "Cat smile 2",
+        "smile_path": "/smile/Котики/Cat smile 2.webp",
+        "smile_code": ":cat_smile2:"
+      },
+      {
+        "smile_name": "Cat amazed",
+        "smile_path": "/smile/Котики/Cat amazed.webp",
+        "smile_code": ":cat_amazed:"
+      },
+      {
+        "smile_name": "Cat eat2",
+        "smile_path": "/smile/Котики/Cat eat2.webp",
+        "smile_code": ":cat_eat2:"
+      },
+      {
+        "smile_name": "Cat flex",
+        "smile_path": "/smile/Котики/Cat flex.webp",
+        "smile_code": ":cat_flex:"
+      },
+      {
+        "smile_name": "Cat jumping",
+        "smile_path": "/smile/Котики/Cat jumping.webp",
+        "smile_code": ":cat_jumping:"
+      },
+      {
+        "smile_name": "Cat shake",
+        "smile_path": "/smile/Котики/Cat shake.webp",
+        "smile_code": ":cat_shake:"
+      },
+      {
+        "smile_name": "Cat tongue",
+        "smile_path": "/smile/Котики/Cat tongue.webp",
+        "smile_code": ":cat_tongue:"
+      },
+      {
+        "smile_name": "Cat eats",
+        "smile_path": "/smile/Котики/Cat eats.webp",
+        "smile_code": ":cat_eats:"
+      },
+      {
+        "smile_name": "Cat wait",
+        "smile_path": "/smile/Котики/Cat wait.webp",
+        "smile_code": ":catwait:"
+      },
+      {
+        "smile_name": "Mad cat",
+        "smile_path": "/smile/Котики/Mad cat.webp",
+        "smile_code": ":madcat:"
+      },
+      {
+        "smile_name": "Cat kiss",
+        "smile_path": "/smile/Котики/Cat kiss.webp",
+        "smile_code": ":cat_kiss:"
+      },
+      {
+        "smile_name": "Angry cat",
+        "smile_path": "/smile/Котики/Angry cat.webp",
+        "smile_code": ":cat_angry:"
+      },
+      {
+        "smile_name": "Cat shout",
+        "smile_path": "/smile/Котики/Cat shout.webp",
+        "smile_code": ":cat_shout:"
+      },
+      {
+        "smile_name": "Cat cringe",
+        "smile_path": "/smile/Котики/Cat cringe.webp",
+        "smile_code": ":cat_cringe:"
+      },
+      {
+        "smile_name": "cat squeez",
+        "smile_path": "/smile/Котики/cat squeez.webp",
+        "smile_code": ":catsqueez:"
+      },
+      {
+        "smile_name": "Cat dance",
+        "smile_path": "/smile/Котики/Cat dance.webp",
+        "smile_code": ":cat_dance:"
+      },
+      {
+        "smile_name": "Cat tail",
+        "smile_path": "/smile/Котики/Cat tail.webp",
+        "smile_code": ":cattail:"
+      },
+      {
+        "smile_name": "Cute cat",
+        "smile_path": "/smile/Котики/Cute cat.webp",
+        "smile_code": ":cutecat:"
+      },
+      {
+        "smile_name": "Cat fu",
+        "smile_path": "/smile/Котики/Cat fu.webp",
+        "smile_code": ":cat_fu:"
+      },
+      {
+        "smile_name": "Cat eat",
+        "smile_path": "/smile/Котики/Cat eat.webp",
+        "smile_code": ":cat_eat:"
+      },
+      {
+        "smile_name": "Cat meow",
+        "smile_path": "/smile/Котики/Cat meow.webp",
+        "smile_code": ":catmeow:"
+      },
+      {
+        "smile_name": "Cat surprised",
+        "smile_path": "/smile/Котики/Cat surprised.webp",
+        "smile_code": ":cat_surprised:"
+      },
+      {
+        "smile_name": "Cat look",
+        "smile_path": "/smile/Котики/Cat look.webp",
+        "smile_code": ":cat_look:"
+      },
+      {
+        "smile_name": "Crying Cat",
+        "smile_path": "/smile/Котики/Crying Cat.webp",
+        "smile_code": ":cryingcat:"
+      },
+      {
+        "smile_name": "Cat eat",
+        "smile_path": "/smile/Котики/Cat eat.webp",
+        "smile_code": ":cateat:"
+      },
+      {
+        "smile_name": "meow2",
+        "smile_path": "/smile/Котики/meow2.webp",
+        "smile_code": ":meow2:"
+      },
+      {
+        "smile_name": "Kitty",
+        "smile_path": "/smile/Котики/Kitty.webp",
+        "smile_code": ":kitty:"
+      },
+      {
+        "smile_name": "cat pop",
+        "smile_path": "/smile/Котики/cat pop.webp",
+        "smile_code": ":catpop:"
+      },
+      {
+        "smile_name": "jumpingcat",
+        "smile_path": "/smile/Котики/jumpingcat.webp",
+        "smile_code": ":jumpingcat:"
+      },
+      {
+        "smile_name": "Bongo tap",
+        "smile_path": "/smile/Котики/Bongo tap.webp",
+        "smile_code": ":bongo_tap:"
+      },
+      {
+        "smile_name": "Cat peek",
+        "smile_path": "/smile/Котики/Cat peek.webp",
+        "smile_code": ":catpeek:"
+      },
+      {
+        "smile_name": "rolling cat",
+        "smile_path": "/smile/Котики/rolling cat.webp",
+        "smile_code": ":rollingcat:"
+      },
+      {
+        "smile_name": "happy",
+        "smile_path": "/smile/Котики/happy.webp",
+        "smile_code": ":happycat:"
+      },
+      {
+        "smile_name": "Cat ayo",
+        "smile_path": "/smile/Котики/Cat ayo.webp",
+        "smile_code": ":cat_ayo:"
+      },
+      {
+        "smile_name": "Cat rave",
+        "smile_path": "/smile/Котики/Cat rave.webp",
+        "smile_code": ":cat_rave:"
+      },
+      {
+        "smile_name": "Kitten",
+        "smile_path": "/smile/Котики/Kitten.webp",
+        "smile_code": ":kitten:"
+      },
+      {
+        "smile_name": "Meow",
+        "smile_path": "/smile/Котики/Meow.webp",
+        "smile_code": ":meow:"
+      },
+      {
+        "smile_name": "Flexing cat",
+        "smile_path": "/smile/Котики/Flexing cat.webp",
+        "smile_code": ":flexing_cat:"
+      },
+      {
+        "smile_name": "Pop cat",
+        "smile_path": "/smile/Котики/Pop cat.webp",
+        "smile_code": ":popcat:"
+      },
+      {
+        "smile_name": "Cat pls",
+        "smile_path": "/smile/Котики/Cat pls.webp",
+        "smile_code": ":catpls:"
+      },
+      {
+        "smile_name": "Cat smile",
+        "smile_path": "/smile/Котики/Cat smile.webp",
+        "smile_code": ":cat_smile:"
+      },
+      {
+        "smile_name": "Cat gaga",
+        "smile_path": "/smile/Котики/Cat gaga.webp",
+        "smile_code": ":cat_gaga:"
+      },
+      {
+        "smile_name": "Cat bleh",
+        "smile_path": "/smile/Котики/Cat bleh.webp",
+        "smile_code": ":cat_bleh:"
+      },
+      {
+        "smile_name": "Despair",
+        "smile_path": "/smile/Котики/Despair.webp",
+        "smile_code": ":despair:"
+      },
+      {
+        "smile_name": "catwtf",
+        "smile_path": "/smile/Котики/catwtf.webp",
+        "smile_code": ":catwtf:"
+      },
+      {
+        "smile_name": "Wutcat",
+        "smile_path": "/smile/Котики/Wutcat.webp",
+        "smile_code": ":wutcat:"
+      },
+      {
+        "smile_name": "Are you serious?",
+        "smile_path": "/smile/Котики/Are you serious_.webp",
+        "smile_code": ":cat_really:"
+      },
+      {
+        "smile_name": "kitwtf",
+        "smile_path": "/smile/Котики/kitwtf.webp",
+        "smile_code": ":kitwtf:"
+      },
+      {
+        "smile_name": "kot3",
+        "smile_path": "/smile/Котики/kot3.webp",
+        "smile_code": ":kot3:"
+      },
+      {
+        "smile_name": "Sber cat",
+        "smile_path": "/smile/Котики/Sber cat.webp",
+        "smile_code": ":sber_cat:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Обезьяны",
+    "smiles": [
+      {
+        "smile_name": "Abizyan",
+        "smile_path": "/smile/Обезьяны/Abizyan.webp",
+        "smile_code": ":abizyan:"
+      },
+      {
+        "smile_name": "Thinks",
+        "smile_path": "/smile/Обезьяны/Thinks.webp",
+        "smile_code": ":ob_thinks:"
+      },
+      {
+        "smile_name": "Kisses",
+        "smile_path": "/smile/Обезьяны/Kisses.webp",
+        "smile_code": ":obkisses:"
+      },
+      {
+        "smile_name": "Smoke",
+        "smile_path": "/smile/Обезьяны/Smoke.webp",
+        "smile_code": ":obsmoke:"
+      },
+      {
+        "smile_name": "Erzhan",
+        "smile_path": "/smile/Обезьяны/Erzhan.webp",
+        "smile_code": ":erzhan:"
+      },
+      {
+        "smile_name": "Shocked",
+        "smile_path": "/smile/Обезьяны/Shocked.webp",
+        "smile_code": ":obshocked:"
+      },
+      {
+        "smile_name": "Music",
+        "smile_path": "/smile/Обезьяны/Music.webp",
+        "smile_code": ":obmusic:"
+      },
+      {
+        "smile_name": "Clown",
+        "smile_path": "/smile/Обезьяны/Clown.webp",
+        "smile_code": ":obclown:"
+      },
+      {
+        "smile_name": "Cool",
+        "smile_path": "/smile/Обезьяны/Cool.webp",
+        "smile_code": ":obcool:"
+      },
+      {
+        "smile_name": "Cringe",
+        "smile_path": "/smile/Обезьяны/Cringe.webp",
+        "smile_code": ":obcringe:"
+      },
+      {
+        "smile_name": "Wtf",
+        "smile_path": "/smile/Обезьяны/Wtf.webp",
+        "smile_code": ":obwtf:"
+      },
+      {
+        "smile_name": "Sad",
+        "smile_path": "/smile/Обезьяны/Sad.webp",
+        "smile_code": ":obsad:"
+      },
+      {
+        "smile_name": "Lol",
+        "smile_path": "/smile/Обезьяны/Lol.webp",
+        "smile_code": ":oblol:"
+      },
+      {
+        "smile_name": "Monke wtf",
+        "smile_path": "/smile/Обезьяны/Monke wtf.webp",
+        "smile_code": ":monkewtf:"
+      },
+      {
+        "smile_name": "Dance",
+        "smile_path": "/smile/Обезьяны/Dance.webp",
+        "smile_code": ":obdance:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Амням",
+    "smiles": [
+      {
+        "smile_name": "AmEat",
+        "smile_path": "/smile/Амням/AmEat.webp",
+        "smile_code": ":ameat:"
+      },
+      {
+        "smile_name": "Am think",
+        "smile_path": "/smile/Амням/Am think.webp",
+        "smile_code": ":am_think:"
+      },
+      {
+        "smile_name": "AmUra",
+        "smile_path": "/smile/Амням/AmUra.webp",
+        "smile_code": ":amura:"
+      },
+      {
+        "smile_name": "Sad nyam",
+        "smile_path": "/smile/Амням/Sad nyam.webp",
+        "smile_code": ":sadnyam:"
+      },
+      {
+        "smile_name": "AmSad",
+        "smile_path": "/smile/Амням/AmSad.webp",
+        "smile_code": ":amsad:"
+      },
+      {
+        "smile_name": "Am tail",
+        "smile_path": "/smile/Амням/Am tail.webp",
+        "smile_code": ":am_tail:"
+      },
+      {
+        "smile_name": "AmHmm",
+        "smile_path": "/smile/Амням/AmHmm.webp",
+        "smile_code": ":amhmm:"
+      },
+      {
+        "smile_name": "AmWonder",
+        "smile_path": "/smile/Амням/AmWonder.webp",
+        "smile_code": ":amwonder:"
+      },
+      {
+        "smile_name": "Am shock",
+        "smile_path": "/smile/Амням/Am shock.webp",
+        "smile_code": ":am_shock:"
+      },
+      {
+        "smile_name": "AmCute",
+        "smile_path": "/smile/Амням/AmCute.webp",
+        "smile_code": ":amcute:"
+      },
+      {
+        "smile_name": "Amnyam Noted",
+        "smile_path": "/smile/Амням/Amnyam Noted.webp",
+        "smile_code": ":amnoted:"
+      },
+      {
+        "smile_name": "Amnyam Tap",
+        "smile_path": "/smile/Амням/Amnyam Tap.webp",
+        "smile_code": ":amtap:"
+      },
+      {
+        "smile_name": "Amnyam cute",
+        "smile_path": "/smile/Амням/Amnyam cute.webp",
+        "smile_code": ":nyamcute:"
+      },
+      {
+        "smile_name": "Am read",
+        "smile_path": "/smile/Амням/Am read.webp",
+        "smile_code": ":am_read:"
+      },
+      {
+        "smile_name": "AmEat2",
+        "smile_path": "/smile/Амням/AmEat2.webp",
+        "smile_code": ":ameat2:"
+      },
+      {
+        "smile_name": "AmUpset",
+        "smile_path": "/smile/Амням/AmUpset.webp",
+        "smile_code": ":amupset:"
+      },
+      {
+        "smile_name": "AmZxc",
+        "smile_path": "/smile/Амням/AmZxc.svg",
+        "smile_code": ":yakuzik:"
+      },
+      {
+        "smile_name": "AmWrites",
+        "smile_path": "/smile/Амням/AmWrites.webp",
+        "smile_code": ":amwrites:"
+      },
+      {
+        "smile_name": "AmAngry",
+        "smile_path": "/smile/Амням/AmAngry.webp",
+        "smile_code": ":amangry:"
+      },
+      {
+        "smile_name": "Morda",
+        "smile_path": "/smile/Амням/Morda.webp",
+        "smile_code": ":morda:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Фрукты/овощи",
+    "smiles": [
+      {
+        "smile_name": "Broccoli",
+        "smile_path": "/smile/Фрукты_овощи/Broccoli.webp",
+        "smile_code": ":broccoli:"
+      },
+      {
+        "smile_name": "Pineapple",
+        "smile_path": "/smile/Фрукты_овощи/Pineapple.webp",
+        "smile_code": ":pineapple:"
+      },
+      {
+        "smile_name": "Strawberry",
+        "smile_path": "/smile/Фрукты_овощи/Strawberry.webp",
+        "smile_code": ":strawberry:"
+      },
+      {
+        "smile_name": "Onion",
+        "smile_path": "/smile/Фрукты_овощи/Onion.webp",
+        "smile_code": ":onion:"
+      },
+      {
+        "smile_name": "Orange",
+        "smile_path": "/smile/Фрукты_овощи/Orange.webp",
+        "smile_code": ":orange:"
+      },
+      {
+        "smile_name": "Orehus",
+        "smile_path": "/smile/Фрукты_овощи/Orehus.webp",
+        "smile_code": ":orehus:"
+      },
+      {
+        "smile_name": "Qiwi fruit",
+        "smile_path": "/smile/Фрукты_овощи/Qiwi fruit.webp",
+        "smile_code": ":qiwi_fruit:"
+      },
+      {
+        "smile_name": "Angry fruit",
+        "smile_path": "/smile/Фрукты_овощи/Angry fruit.webp",
+        "smile_code": ":angryFruit:"
+      },
+      {
+        "smile_name": "fu",
+        "smile_path": "/smile/Фрукты_овощи/fu.webp",
+        "smile_code": ":fu:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Колобки",
+    "smiles": [
+      {
+        "smile_name": "Smile",
+        "smile_path": "/smile/Колобки/Smile.webp",
+        "smile_code": ":smile:"
+      },
+      {
+        "smile_name": "Smile ok",
+        "smile_path": "/smile/Колобки/Smile ok.webp",
+        "smile_code": ":smile_ok:"
+      },
+      {
+        "smile_name": "Smile wink",
+        "smile_path": "/smile/Колобки/Smile wink.webp",
+        "smile_code": ":smile_wink:"
+      },
+      {
+        "smile_name": "Smile idk",
+        "smile_path": "/smile/Колобки/Smile idk.webp",
+        "smile_code": ":smile_idk:"
+      },
+      {
+        "smile_name": "Smile read",
+        "smile_path": "/smile/Колобки/Smile read.webp",
+        "smile_code": ":smile_read:"
+      },
+      {
+        "smile_name": "Smile xd",
+        "smile_path": "/smile/Колобки/Smile xd.webp",
+        "smile_code": ":smile_xd:"
+      },
+      {
+        "smile_name": "Smile good",
+        "smile_path": "/smile/Колобки/Smile good.webp",
+        "smile_code": ":smile_good:"
+      },
+      {
+        "smile_name": "Smile flex",
+        "smile_path": "/smile/Колобки/Smile flex.webp",
+        "smile_code": ":smile_flex:"
+      },
+      {
+        "smile_name": "Smile laugh2",
+        "smile_path": "/smile/Колобки/Smile laugh2.webp",
+        "smile_code": ":smile_laugh2:"
+      },
+      {
+        "smile_name": "Smile nono",
+        "smile_path": "/smile/Колобки/Smile nono.webp",
+        "smile_code": ":smile_nono:"
+      },
+      {
+        "smile_name": "Smile shame",
+        "smile_path": "/smile/Колобки/Smile shame.webp",
+        "smile_code": ":smile_shame:"
+      },
+      {
+        "smile_name": "Smile snooks",
+        "smile_path": "/smile/Колобки/Smile snooks.webp",
+        "smile_code": ":smile_snooks:"
+      },
+      {
+        "smile_name": "Smile gamer",
+        "smile_path": "/smile/Колобки/Smile gamer.webp",
+        "smile_code": ":smile_gamer:"
+      },
+      {
+        "smile_name": "Smile interested",
+        "smile_path": "/smile/Колобки/Smile interested.webp",
+        "smile_code": ":smile_interested:"
+      },
+      {
+        "smile_name": "Smile stop",
+        "smile_path": "/smile/Колобки/Smile stop.webp",
+        "smile_code": ":smile_stop:"
+      },
+      {
+        "smile_name": "Smile squirm",
+        "smile_path": "/smile/Колобки/Smile squirm.webp",
+        "smile_code": ":smile_squirm:"
+      },
+      {
+        "smile_name": "Smile Yahoo",
+        "smile_path": "/smile/Колобки/Smile Yahoo.webp",
+        "smile_code": ":smile_yahoo:"
+      },
+      {
+        "smile_name": "Smile Detective",
+        "smile_path": "/smile/Колобки/Smile Detective.webp",
+        "smile_code": ":smile_detective:"
+      },
+      {
+        "smile_name": "Smile wait",
+        "smile_path": "/smile/Колобки/Smile wait.webp",
+        "smile_code": ":smile_wait:"
+      },
+      {
+        "smile_name": "Smile cars",
+        "smile_path": "/smile/Колобки/Smile cars.webp",
+        "smile_code": ":smile_cars:"
+      },
+      {
+        "smile_name": "Smile taunt",
+        "smile_path": "/smile/Колобки/Smile taunt.webp",
+        "smile_code": ":smile_taunt:"
+      },
+      {
+        "smile_name": "Smile blush",
+        "smile_path": "/smile/Колобки/Smile blush.webp",
+        "smile_code": ":smile_blush:"
+      },
+      {
+        "smile_name": "Smile reading",
+        "smile_path": "/smile/Колобки/Smile reading.webp",
+        "smile_code": ":smile_reading:"
+      },
+      {
+        "smile_name": "Smile love",
+        "smile_path": "/smile/Колобки/Smile love.webp",
+        "smile_code": ":smile_love:"
+      },
+      {
+        "smile_name": "Smile tease",
+        "smile_path": "/smile/Колобки/Smile tease.webp",
+        "smile_code": ":smile_tease:"
+      },
+      {
+        "smile_name": "Smile friend",
+        "smile_path": "/smile/Колобки/Smile friend.webp",
+        "smile_code": ":smile_friend:"
+      },
+      {
+        "smile_name": "Smile rose",
+        "smile_path": "/smile/Колобки/Smile rose.webp",
+        "smile_code": ":smilerose:"
+      },
+      {
+        "smile_name": "Smile friends",
+        "smile_path": "/smile/Колобки/Smile friends.webp",
+        "smile_code": ":smile_friends:"
+      },
+      {
+        "smile_name": "Smile hiding",
+        "smile_path": "/smile/Колобки/Smile hiding.webp",
+        "smile_code": ":smile_hiding:"
+      },
+      {
+        "smile_name": "Smile coin flip",
+        "smile_path": "/smile/Колобки/Smile coin flip.webp",
+        "smile_code": ":coinflip:"
+      },
+      {
+        "smile_name": "Smile facepalm",
+        "smile_path": "/smile/Колобки/Smile facepalm.webp",
+        "smile_code": ":smile_facepalm:"
+      },
+      {
+        "smile_name": "Smile swoon",
+        "smile_path": "/smile/Колобки/Smile swoon.webp",
+        "smile_code": ":smile_swoon:"
+      },
+      {
+        "smile_name": "Smile suicide",
+        "smile_path": "/smile/Колобки/Smile suicide.webp",
+        "smile_code": ":smilesuicide:"
+      },
+      {
+        "smile_name": "Smile Fishing",
+        "smile_path": "/smile/Колобки/Smile Fishing.gif",
+        "smile_code": ":smile_fishing:"
+      },
+      {
+        "smile_name": "Smile RIP",
+        "smile_path": "/smile/Колобки/Smile RIP.webp",
+        "smile_code": ":smile_rip:"
+      },
+      {
+        "smile_name": "Smile punch",
+        "smile_path": "/smile/Колобки/Smile punch.webp",
+        "smile_code": ":smile_punch:"
+      },
+      {
+        "smile_name": "Smile beach",
+        "smile_path": "/smile/Колобки/Smile beach.webp",
+        "smile_code": ":smile_beach:"
+      },
+      {
+        "smile_name": "Smile Drinking",
+        "smile_path": "/smile/Колобки/Smile Drinking.webp",
+        "smile_code": ":smile_drinking:"
+      },
+      {
+        "smile_name": "Smile hookah",
+        "smile_path": "/smile/Колобки/Smile hookah.webp",
+        "smile_code": ":smile_hookah:"
+      },
+      {
+        "smile_name": "Smile sun",
+        "smile_path": "/smile/Колобки/Smile sun.webp",
+        "smile_code": ":smile_sun:"
+      },
+      {
+        "smile_name": "Smile closed",
+        "smile_path": "/smile/Колобки/Smile closed.webp",
+        "smile_code": ":smile_closed:"
+      },
+      {
+        "smile_name": "Hi",
+        "smile_path": "/smile/Колобки/Hi.webp",
+        "smile_code": ":hi:"
+      },
+      {
+        "smile_name": "Smile music",
+        "smile_path": "/smile/Колобки/Smile music.webp",
+        "smile_code": ":smile_music:"
+      },
+      {
+        "smile_name": "Smile laugh",
+        "smile_path": "/smile/Колобки/Smile laugh.webp",
+        "smile_code": ":smile_laugh:"
+      },
+      {
+        "smile_name": "Smile interesting",
+        "smile_path": "/smile/Колобки/Smile interesting.webp",
+        "smile_code": ":smile_interesting:"
+      },
+      {
+        "smile_name": "Smile fuck",
+        "smile_path": "/smile/Колобки/Smile fuck.webp",
+        "smile_code": ":smile_fuck:"
+      },
+      {
+        "smile_name": "Smile dance",
+        "smile_path": "/smile/Колобки/Smile dance.webp",
+        "smile_code": ":smile_dance:"
+      },
+      {
+        "smile_name": "Smile ty",
+        "smile_path": "/smile/Колобки/Smile ty.webp",
+        "smile_code": ":smile_ty:"
+      },
+      {
+        "smile_name": "Smile nice",
+        "smile_path": "/smile/Колобки/Smile nice.webp",
+        "smile_code": ":smile_nice:"
+      },
+      {
+        "smile_name": "Smile crazy",
+        "smile_path": "/smile/Колобки/Smile crazy.webp",
+        "smile_code": ":smile_crazy:"
+      },
+      {
+        "smile_name": "Smile ura",
+        "smile_path": "/smile/Колобки/Smile ura.webp",
+        "smile_code": ":smile_ura:"
+      },
+      {
+        "smile_name": "Smile victory",
+        "smile_path": "/smile/Колобки/Smile victory.webp",
+        "smile_code": ":smile_victory:"
+      },
+      {
+        "smile_name": "sueta",
+        "smile_path": "/smile/Колобки/sueta.webp",
+        "smile_code": ":sueta:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Одноклассники",
+    "smiles": [
+      {
+        "smile_name": "ok love",
+        "smile_path": "/smile/Одноклассники/ok love.webp",
+        "smile_code": ":ok_love:"
+      },
+      {
+        "smile_name": "ok shy",
+        "smile_path": "/smile/Одноклассники/ok shy.webp",
+        "smile_code": ":ok_shy:"
+      },
+      {
+        "smile_name": "ok tongue",
+        "smile_path": "/smile/Одноклассники/ok tongue.webp",
+        "smile_code": ":ok_tongue:"
+      },
+      {
+        "smile_name": "ok wink",
+        "smile_path": "/smile/Одноклассники/ok wink.webp",
+        "smile_code": ":ok_wink:"
+      },
+      {
+        "smile_name": "Cool",
+        "smile_path": "/smile/Одноклассники/Cool.webp",
+        "smile_code": ":ok_cool:"
+      },
+      {
+        "smile_name": "Lol",
+        "smile_path": "/smile/Одноклассники/Lol.webp",
+        "smile_code": ":ok_lol:"
+      },
+      {
+        "smile_name": "Hm",
+        "smile_path": "/smile/Одноклассники/Hm.webp",
+        "smile_code": ":ok_hm:"
+      },
+      {
+        "smile_name": "Angry",
+        "smile_path": "/smile/Одноклассники/Angry.webp",
+        "smile_code": ":ok_angry:"
+      },
+      {
+        "smile_name": "Cry",
+        "smile_path": "/smile/Одноклассники/Cry.webp",
+        "smile_code": ":ok_cry:"
+      },
+      {
+        "smile_name": "Ok wonder",
+        "smile_path": "/smile/Одноклассники/Ok wonder.webp",
+        "smile_code": ":ok_wonder:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "2011",
+    "smiles": [
+      {
+        "smile_name": "Doomer",
+        "smile_path": "/smile/2011/Doomer.svg",
+        "smile_code": ":doomer:"
+      },
+      {
+        "smile_name": "solevoi",
+        "smile_path": "/smile/2011/solevoi.svg",
+        "smile_code": ":solevoi:"
+      },
+      {
+        "smile_name": "Ffuuuck",
+        "smile_path": "/smile/2011/Ffuuuck.svg",
+        "smile_code": ":ffu_man:"
+      },
+      {
+        "smile_name": "Cat face",
+        "smile_path": "/smile/2011/Cat face.svg",
+        "smile_code": ":cat_face:"
+      },
+      {
+        "smile_name": "Autism",
+        "smile_path": "/smile/2011/Autism.svg",
+        "smile_code": ":autism:"
+      },
+      {
+        "smile_name": "Dis face",
+        "smile_path": "/smile/2011/Dis face.svg",
+        "smile_code": ":dis_face:"
+      },
+      {
+        "smile_name": "Look face",
+        "smile_path": "/smile/2011/Look face.svg",
+        "smile_code": ":lookface:"
+      },
+      {
+        "smile_name": "Ok face",
+        "smile_path": "/smile/2011/Ok face.svg",
+        "smile_code": ":okay_face:"
+      },
+      {
+        "smile_name": "Cry face",
+        "smile_path": "/smile/2011/Cry face.svg",
+        "smile_code": ":hunt_face:"
+      },
+      {
+        "smile_name": "Crying out of happiness",
+        "smile_path": "/smile/2011/Crying out of happiness.svg",
+        "smile_code": ":happy_man:"
+      },
+      {
+        "smile_name": "Happy face",
+        "smile_path": "/smile/2011/Happy face.svg",
+        "smile_code": ":face_smile:"
+      },
+      {
+        "smile_name": "Troll face",
+        "smile_path": "/smile/2011/Troll face.svg",
+        "smile_code": ":troll_face:"
+      },
+      {
+        "smile_name": "Mfd",
+        "smile_path": "/smile/2011/Mfd.svg",
+        "smile_code": ":mfd:"
+      },
+      {
+        "smile_name": "smart2011",
+        "smile_path": "/smile/2011/smart2011.svg",
+        "smile_code": ":smart2011:"
+      },
+      {
+        "smile_name": "Trolgaga",
+        "smile_path": "/smile/2011/Trolgaga.webp",
+        "smile_code": ":trolgaga:"
+      },
+      {
+        "smile_name": "Hmm",
+        "smile_path": "/smile/2011/Hmm.svg",
+        "smile_code": ":hm:"
+      },
+      {
+        "smile_name": "Like face",
+        "smile_path": "/smile/2011/Like face.svg",
+        "smile_code": ":2011_like:"
+      },
+      {
+        "smile_name": "Nice face",
+        "smile_path": "/smile/2011/Nice face.svg",
+        "smile_code": ":2011_nice:"
+      },
+      {
+        "smile_name": "Author, are you stupid?",
+        "smile_path": "/smile/2011/Author, are you stupid_.svg",
+        "smile_code": ":2011_tiDebil:"
+      },
+      {
+        "smile_name": "Fuck yeah",
+        "smile_path": "/smile/2011/Fuck yeah.svg",
+        "smile_code": ":fuckyea:"
+      },
+      {
+        "smile_name": "Emm",
+        "smile_path": "/smile/2011/Emm.svg",
+        "smile_code": ":emm:"
+      },
+      {
+        "smile_name": "wut",
+        "smile_path": "/smile/2011/wut.webp",
+        "smile_code": ":wut:"
+      },
+      {
+        "smile_name": "poker white",
+        "smile_path": "/smile/2011/poker white.svg",
+        "smile_code": ":pokerwhite:"
+      },
+      {
+        "smile_name": "Shit on the face",
+        "smile_path": "/smile/2011/Shit on the face.svg",
+        "smile_code": ":Rotvgovne:"
+      },
+      {
+        "smile_name": "Wojak",
+        "smile_path": "/smile/2011/Wojak.svg",
+        "smile_code": ":wojak:"
+      },
+      {
+        "smile_name": "Dynyl",
+        "smile_path": "/smile/2011/Dynyl.webp",
+        "smile_code": ":dynyl:"
+      },
+      {
+        "smile_name": "Hospital face",
+        "smile_path": "/smile/2011/Hospital face.svg",
+        "smile_code": ":durka:"
+      },
+      {
+        "smile_name": "Torch face",
+        "smile_path": "/smile/2011/Torch face.webp",
+        "smile_code": ":torch:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Утка",
+    "smiles": [
+      {
+        "smile_name": "Duck wave",
+        "smile_path": "/smile/Утка/Duck wave.webp",
+        "smile_code": ":duckwave:"
+      },
+      {
+        "smile_name": "Duck sleep",
+        "smile_path": "/smile/Утка/Duck sleep.webp",
+        "smile_code": ":duck_sleep:"
+      },
+      {
+        "smile_name": "Duck money",
+        "smile_path": "/smile/Утка/Duck money.webp",
+        "smile_code": ":duck_money:"
+      },
+      {
+        "smile_name": "Duck evidance",
+        "smile_path": "/smile/Утка/Duck evidance.webp",
+        "smile_code": ":duck_evidance:"
+      },
+      {
+        "smile_name": "Duck write",
+        "smile_path": "/smile/Утка/Duck write.webp",
+        "smile_code": ":duck_write:"
+      },
+      {
+        "smile_name": "Duck clean",
+        "smile_path": "/smile/Утка/Duck clean.webp",
+        "smile_code": ":duck_clean:"
+      },
+      {
+        "smile_name": "Duck hmm",
+        "smile_path": "/smile/Утка/Duck hmm.webp",
+        "smile_code": ":duck_hmm:"
+      },
+      {
+        "smile_name": "Duck idk",
+        "smile_path": "/smile/Утка/Duck idk.webp",
+        "smile_code": ":duck_idk:"
+      },
+      {
+        "smile_name": "Duck jail",
+        "smile_path": "/smile/Утка/Duck jail.webp",
+        "smile_code": ":duckjail:"
+      },
+      {
+        "smile_name": "Duck cool",
+        "smile_path": "/smile/Утка/Duck cool.webp",
+        "smile_code": ":duck_cool:"
+      },
+      {
+        "smile_name": "Duck popcorn",
+        "smile_path": "/smile/Утка/Duck popcorn.webp",
+        "smile_code": ":duck_popcorn:"
+      },
+      {
+        "smile_name": "Duck affection",
+        "smile_path": "/smile/Утка/Duck affection.webp",
+        "smile_code": ":duck_affection:"
+      },
+      {
+        "smile_name": "Duck love",
+        "smile_path": "/smile/Утка/Duck love.webp",
+        "smile_code": ":duck_love:"
+      },
+      {
+        "smile_name": "Duck omg",
+        "smile_path": "/smile/Утка/Duck omg.webp",
+        "smile_code": ":duck_omg:"
+      },
+      {
+        "smile_name": "Duck angry",
+        "smile_path": "/smile/Утка/Duck angry.webp",
+        "smile_code": ":duck_angry:"
+      },
+      {
+        "smile_name": "Duck knife",
+        "smile_path": "/smile/Утка/Duck knife.webp",
+        "smile_code": ":duck_knife2:"
+      },
+      {
+        "smile_name": "Duck laugh",
+        "smile_path": "/smile/Утка/Duck laugh.webp",
+        "smile_code": ":ducklaugh:"
+      },
+      {
+        "smile_name": "Duck laugh2",
+        "smile_path": "/smile/Утка/Duck laugh2.webp",
+        "smile_code": ":ducklaugh2:"
+      },
+      {
+        "smile_name": "Duck like",
+        "smile_path": "/smile/Утка/Duck like.webp",
+        "smile_code": ":duck_like:"
+      },
+      {
+        "smile_name": "Duck classic",
+        "smile_path": "/smile/Утка/Duck classic.webp",
+        "smile_code": ":duck_classic:"
+      },
+      {
+        "smile_name": "Duck cry",
+        "smile_path": "/smile/Утка/Duck cry.webp",
+        "smile_code": ":duck_cry:"
+      },
+      {
+        "smile_name": "Duck cry2",
+        "smile_path": "/smile/Утка/Duck cry2.webp",
+        "smile_code": ":duck_cry2:"
+      },
+      {
+        "smile_name": "Duck flashbacks",
+        "smile_path": "/smile/Утка/Duck flashbacks.webp",
+        "smile_code": ":duck_flashbacks:"
+      },
+      {
+        "smile_name": "Duck holiday",
+        "smile_path": "/smile/Утка/Duck holiday.webp",
+        "smile_code": ":duck_holiday:"
+      },
+      {
+        "smile_name": "Duck Knife",
+        "smile_path": "/smile/Утка/Duck Knife.webp",
+        "smile_code": ":duck_knife:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Anime",
+    "smiles": [
+      {
+        "smile_name": "Anime hi",
+        "smile_path": "/smile/Anime/Anime hi.webp",
+        "smile_code": ":anime_hi:"
+      },
+      {
+        "smile_name": "Anime eat",
+        "smile_path": "/smile/Anime/Anime eat.webp",
+        "smile_code": ":animeeat:"
+      },
+      {
+        "smile_name": "Anime Thumbs Up",
+        "smile_path": "/smile/Anime/Anime Thumbs Up.webp",
+        "smile_code": ":anime_thumbs_up:"
+      },
+      {
+        "smile_name": "anime yes",
+        "smile_path": "/smile/Anime/anime yes.webp",
+        "smile_code": ":animeyes2:"
+      },
+      {
+        "smile_name": "Anime wave",
+        "smile_path": "/smile/Anime/Anime wave.webp",
+        "smile_code": ":animewave:"
+      },
+      {
+        "smile_name": "Anime aww",
+        "smile_path": "/smile/Anime/Anime aww.webp",
+        "smile_code": ":animeaww:"
+      },
+      {
+        "smile_name": "anime yes sir",
+        "smile_path": "/smile/Anime/anime yes sir.webp",
+        "smile_code": ":animeyessir:"
+      },
+      {
+        "smile_name": "Anime cat love",
+        "smile_path": "/smile/Anime/Anime cat love.webp",
+        "smile_code": ":animecatlove:"
+      },
+      {
+        "smile_name": "Anime sweet",
+        "smile_path": "/smile/Anime/Anime sweet.webp",
+        "smile_code": ":animesweet:"
+      },
+      {
+        "smile_name": "Anime butt",
+        "smile_path": "/smile/Anime/Anime butt.webp",
+        "smile_code": ":animebutt:"
+      },
+      {
+        "smile_name": "animehehe",
+        "smile_path": "/smile/Anime/animehehe.webp",
+        "smile_code": ":animehehe:"
+      },
+      {
+        "smile_name": "animeluv",
+        "smile_path": "/smile/Anime/animeluv.webp",
+        "smile_code": ":animeluv2:"
+      },
+      {
+        "smile_name": "Anime hugs",
+        "smile_path": "/smile/Anime/Anime hugs.webp",
+        "smile_code": ":anime_hugs:"
+      },
+      {
+        "smile_name": "Anime bang",
+        "smile_path": "/smile/Anime/Anime bang.webp",
+        "smile_code": ":animebang:"
+      },
+      {
+        "smile_name": "animeluv3",
+        "smile_path": "/smile/Anime/animeluv3.webp",
+        "smile_code": ":animeluv3:"
+      },
+      {
+        "smile_name": "Anime yes",
+        "smile_path": "/smile/Anime/Anime yes.webp",
+        "smile_code": ":animeyes:"
+      },
+      {
+        "smile_name": "Noted",
+        "smile_path": "/smile/Anime/Noted.webp",
+        "smile_code": ":animenoted:"
+      },
+      {
+        "smile_name": "Anime luv",
+        "smile_path": "/smile/Anime/Anime luv.webp",
+        "smile_code": ":animeluv:"
+      },
+      {
+        "smile_name": "Anime cute",
+        "smile_path": "/smile/Anime/Anime cute.webp",
+        "smile_code": ":animecute:"
+      },
+      {
+        "smile_name": "anime chill",
+        "smile_path": "/smile/Anime/anime chill.webp",
+        "smile_code": ":animechill:"
+      },
+      {
+        "smile_name": "Anime love",
+        "smile_path": "/smile/Anime/Anime love.webp",
+        "smile_code": ":animelove:"
+      },
+      {
+        "smile_name": "Anime Suicide",
+        "smile_path": "/smile/Anime/Anime Suicide.webp",
+        "smile_code": ":anime_suicide:"
+      },
+      {
+        "smile_name": "anime shout",
+        "smile_path": "/smile/Anime/anime shout.webp",
+        "smile_code": ":animeshout:"
+      },
+      {
+        "smile_name": "Anime dance",
+        "smile_path": "/smile/Anime/Anime dance.webp",
+        "smile_code": ":animedance:"
+      },
+      {
+        "smile_name": "Anime dance 2",
+        "smile_path": "/smile/Anime/Anime dance 2.webp",
+        "smile_code": ":animedance2:"
+      },
+      {
+        "smile_name": "Wadada dang",
+        "smile_path": "/smile/Anime/Wadada dang.webp",
+        "smile_code": ":wadadadang:"
+      },
+      {
+        "smile_name": "Anime flex",
+        "smile_path": "/smile/Anime/Anime flex.webp",
+        "smile_code": ":animeflex:"
+      },
+      {
+        "smile_name": "Anime Smile",
+        "smile_path": "/smile/Anime/Anime Smile.webp",
+        "smile_code": ":animesmile:"
+      },
+      {
+        "smile_name": "Anime Hmm",
+        "smile_path": "/smile/Anime/Anime Hmm.webp",
+        "smile_code": ":animehmm:"
+      },
+      {
+        "smile_name": "Senko",
+        "smile_path": "/smile/Anime/Senko.svg",
+        "smile_code": ":senko:"
+      },
+      {
+        "smile_name": "Anime 02",
+        "smile_path": "/smile/Anime/Anime 02.webp",
+        "smile_code": ":anime02:"
+      },
+      {
+        "smile_name": "Anime nyam",
+        "smile_path": "/smile/Anime/Anime nyam.webp",
+        "smile_code": ":animenyam:"
+      },
+      {
+        "smile_name": "Anime dance 3",
+        "smile_path": "/smile/Anime/Anime dance 3.webp",
+        "smile_code": ":animedance3:"
+      },
+      {
+        "smile_name": "Anime dance",
+        "smile_path": "/smile/Anime/Anime dance.webp",
+        "smile_code": ":anime_dance:"
+      },
+      {
+        "smile_name": "zero two",
+        "smile_path": "/smile/Anime/zero two.webp",
+        "smile_code": ":zerotwo:"
+      },
+      {
+        "smile_name": "sexy anime",
+        "smile_path": "/smile/Anime/sexy anime.webp",
+        "smile_code": ":sexyanime:"
+      },
+      {
+        "smile_name": "AnimeZeroTwo",
+        "smile_path": "/smile/Anime/AnimeZeroTwo.webp",
+        "smile_code": ":animezerotwo:"
+      },
+      {
+        "smile_name": "Licking",
+        "smile_path": "/smile/Anime/Licking.webp",
+        "smile_code": ":licking:"
+      },
+      {
+        "smile_name": "Anime Angry",
+        "smile_path": "/smile/Anime/Anime Angry.gif",
+        "smile_code": ":anime_angry:"
+      },
+      {
+        "smile_name": "Licking 2",
+        "smile_path": "/smile/Anime/Licking 2.webp",
+        "smile_code": ":licking2:"
+      },
+      {
+        "smile_name": "bsaber",
+        "smile_path": "/smile/Anime/bsaber.webp",
+        "smile_code": ":bsaber:"
+      },
+      {
+        "smile_name": "Ghoul",
+        "smile_path": "/smile/Anime/Ghoul.webp",
+        "smile_code": ":ghoul:"
+      },
+      {
+        "smile_name": "Gura Thinking",
+        "smile_path": "/smile/Anime/Gura Thinking.webp",
+        "smile_code": ":gura:"
+      },
+      {
+        "smile_name": "Suicide thoughts",
+        "smile_path": "/smile/Anime/Suicide thoughts.webp",
+        "smile_code": ":sui_thoughts:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "WOT",
+    "smiles": [
+      {
+        "smile_name": "wot troll",
+        "smile_path": "/smile/WOT/wot troll.webp",
+        "smile_code": ":wottroll:"
+      },
+      {
+        "smile_name": "wot chewing",
+        "smile_path": "/smile/WOT/wot chewing.webp",
+        "smile_code": ":wotchewing:"
+      },
+      {
+        "smile_name": "wot bajan",
+        "smile_path": "/smile/WOT/wot bajan.webp",
+        "smile_code": ":wotbajan:"
+      },
+      {
+        "smile_name": "wot facepalm",
+        "smile_path": "/smile/WOT/wot facepalm.webp",
+        "smile_code": ":wotfacepalm:"
+      },
+      {
+        "smile_name": "wot tongue",
+        "smile_path": "/smile/WOT/wot tongue.webp",
+        "smile_code": ":wottongue:"
+      },
+      {
+        "smile_name": "wot deer",
+        "smile_path": "/smile/WOT/wot deer.webp",
+        "smile_code": ":wotdeer:"
+      },
+      {
+        "smile_name": "wot asap",
+        "smile_path": "/smile/WOT/wot asap.webp",
+        "smile_code": ":wotasap:"
+      },
+      {
+        "smile_name": "wot coinflip",
+        "smile_path": "/smile/WOT/wot coinflip.webp",
+        "smile_code": ":wotcoinflip:"
+      },
+      {
+        "smile_name": "wot baby",
+        "smile_path": "/smile/WOT/wot baby.webp",
+        "smile_code": ":wotbaby:"
+      },
+      {
+        "smile_name": "wot speaker",
+        "smile_path": "/smile/WOT/wot speaker.webp",
+        "smile_code": ":wotspeaker:"
+      },
+      {
+        "smile_name": "wot popcorn",
+        "smile_path": "/smile/WOT/wot popcorn.webp",
+        "smile_code": ":wotpopcorn:"
+      },
+      {
+        "smile_name": "wot school",
+        "smile_path": "/smile/WOT/wot school.webp",
+        "smile_code": ":wotschool:"
+      },
+      {
+        "smile_name": "wot teacher",
+        "smile_path": "/smile/WOT/wot teacher.webp",
+        "smile_code": ":wotteacher:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Pepe",
+    "smiles": [
+      {
+        "smile_name": "pepelook",
+        "smile_path": "/smile/Pepe/pepelook.webp",
+        "smile_code": ":pepelook:"
+      },
+      {
+        "smile_name": "Life",
+        "smile_path": "/smile/Pepe/Life.webp",
+        "smile_code": ":life:"
+      },
+      {
+        "smile_name": "pepe shy",
+        "smile_path": "/smile/Pepe/pepe shy.webp",
+        "smile_code": ":pepeshy:"
+      },
+      {
+        "smile_name": "Pepe Comfy",
+        "smile_path": "/smile/Pepe/Pepe Comfy.webp",
+        "smile_code": ":pepecomfy:"
+      },
+      {
+        "smile_name": "Pepe Running",
+        "smile_path": "/smile/Pepe/Pepe Running.webp",
+        "smile_code": ":pepeRunning:"
+      },
+      {
+        "smile_name": "Pepe dance",
+        "smile_path": "/smile/Pepe/Pepe dance.webp",
+        "smile_code": ":pepe_dance:"
+      },
+      {
+        "smile_name": "Pepe pants",
+        "smile_path": "/smile/Pepe/Pepe pants.webp",
+        "smile_code": ":pepePants:"
+      },
+      {
+        "smile_name": "Frog love",
+        "smile_path": "/smile/Pepe/Frog love.webp",
+        "smile_code": ":froglove:"
+      },
+      {
+        "smile_name": "Pepe Think",
+        "smile_path": "/smile/Pepe/Pepe Think.webp",
+        "smile_code": ":pepe_think:"
+      },
+      {
+        "smile_name": "Pepe omg",
+        "smile_path": "/smile/Pepe/Pepe omg.webp",
+        "smile_code": ":pepeomg2:"
+      },
+      {
+        "smile_name": "Pepega",
+        "smile_path": "/smile/Pepe/Pepega.webp",
+        "smile_code": ":pepega:"
+      },
+      {
+        "smile_name": "Pepe why",
+        "smile_path": "/smile/Pepe/Pepe why.webp",
+        "smile_code": ":frog_why:"
+      },
+      {
+        "smile_name": "pepesnow",
+        "smile_path": "/smile/Pepe/pepesnow.webp",
+        "smile_code": ":pepesnow:"
+      },
+      {
+        "smile_name": "Pepe heart",
+        "smile_path": "/smile/Pepe/Pepe heart.webp",
+        "smile_code": ":pepeheart:"
+      },
+      {
+        "smile_name": "Pepe New year",
+        "smile_path": "/smile/Pepe/Pepe New year.webp",
+        "smile_code": ":pepeNewYear:"
+      },
+      {
+        "smile_name": "Pepe torch",
+        "smile_path": "/smile/Pepe/Pepe torch.webp",
+        "smile_code": ":pepetorch:"
+      },
+      {
+        "smile_name": "Pepe wtf",
+        "smile_path": "/smile/Pepe/Pepe wtf.webp",
+        "smile_code": ":pepe_wtf:"
+      },
+      {
+        "smile_name": "Pepe talk",
+        "smile_path": "/smile/Pepe/Pepe talk.webp",
+        "smile_code": ":pepeTalk:"
+      },
+      {
+        "smile_name": "Pepe talk 2",
+        "smile_path": "/smile/Pepe/Pepe talk 2.webp",
+        "smile_code": ":pepeTalk2:"
+      },
+      {
+        "smile_name": "Pepe dj",
+        "smile_path": "/smile/Pepe/Pepe dj.webp",
+        "smile_code": ":pepedj:"
+      },
+      {
+        "smile_name": "Pepe sure",
+        "smile_path": "/smile/Pepe/Pepe sure.webp",
+        "smile_code": ":pepesure:"
+      },
+      {
+        "smile_name": "Pepe music",
+        "smile_path": "/smile/Pepe/Pepe music.webp",
+        "smile_code": ":Pepe_music:"
+      },
+      {
+        "smile_name": "Pepe sits",
+        "smile_path": "/smile/Pepe/Pepe sits.webp",
+        "smile_code": ":pepesits:"
+      },
+      {
+        "smile_name": "Pepe smile",
+        "smile_path": "/smile/Pepe/Pepe smile.webp",
+        "smile_code": ":pepe_smile:"
+      },
+      {
+        "smile_name": "Pepe jesus",
+        "smile_path": "/smile/Pepe/Pepe jesus.webp",
+        "smile_code": ":pepejesus:"
+      },
+      {
+        "smile_name": "Pepe music2",
+        "smile_path": "/smile/Pepe/Pepe music2.webp",
+        "smile_code": ":Pepe_music2:"
+      },
+      {
+        "smile_name": "Pepe scam",
+        "smile_path": "/smile/Pepe/Pepe scam.webp",
+        "smile_code": ":pepe_scam:"
+      },
+      {
+        "smile_name": "Pepe music3",
+        "smile_path": "/smile/Pepe/Pepe music3.webp",
+        "smile_code": ":Pepe_music3:"
+      },
+      {
+        "smile_name": "Pepe music4",
+        "smile_path": "/smile/Pepe/Pepe music4.webp",
+        "smile_code": ":Pepe_music4:"
+      },
+      {
+        "smile_name": "Pepe music5",
+        "smile_path": "/smile/Pepe/Pepe music5.gif",
+        "smile_code": ":Pepe_music5:"
+      },
+      {
+        "smile_name": "Pepe paint",
+        "smile_path": "/smile/Pepe/Pepe paint.webp",
+        "smile_code": ":pepe_paint:"
+      },
+      {
+        "smile_name": "Pepe music6",
+        "smile_path": "/smile/Pepe/Pepe music6.webp",
+        "smile_code": ":Pepe_music6:"
+      },
+      {
+        "smile_name": "pepe odeyalko",
+        "smile_path": "/smile/Pepe/pepe odeyalko.webp",
+        "smile_code": ":pepe_odeyalko:"
+      },
+      {
+        "smile_name": "Pepe business 2",
+        "smile_path": "/smile/Pepe/Pepe business 2.webp",
+        "smile_code": ":pepe_business2:"
+      },
+      {
+        "smile_name": "Pepe understand?",
+        "smile_path": "/smile/Pepe/Pepe understand_.webp",
+        "smile_code": ":pepePonyalDa:"
+      },
+      {
+        "smile_name": "Pepe ez",
+        "smile_path": "/smile/Pepe/Pepe ez.webp",
+        "smile_code": ":pepeez:"
+      },
+      {
+        "smile_name": "pepe headphones",
+        "smile_path": "/smile/Pepe/pepe headphones.webp",
+        "smile_code": ":pepeheadphones:"
+      },
+      {
+        "smile_name": "pepe cvv",
+        "smile_path": "/smile/Pepe/pepe cvv.webp",
+        "smile_code": ":pepecvv:"
+      },
+      {
+        "smile_name": "pepe drive",
+        "smile_path": "/smile/Pepe/pepe drive.webp",
+        "smile_code": ":pepedrive:"
+      },
+      {
+        "smile_name": "Pepe run",
+        "smile_path": "/smile/Pepe/Pepe run.webp",
+        "smile_code": ":pepe_run:"
+      },
+      {
+        "smile_name": "pepe spit",
+        "smile_path": "/smile/Pepe/pepe spit.webp",
+        "smile_code": ":pepespit:"
+      },
+      {
+        "smile_name": "Pepe rain",
+        "smile_path": "/smile/Pepe/Pepe rain.webp",
+        "smile_code": ":peperain:"
+      },
+      {
+        "smile_name": "Pepe cry",
+        "smile_path": "/smile/Pepe/Pepe cry.webp",
+        "smile_code": ":pepe_cry:"
+      },
+      {
+        "smile_name": "Pepe sadness",
+        "smile_path": "/smile/Pepe/Pepe sadness.webp",
+        "smile_code": ":pepe_sadness:"
+      },
+      {
+        "smile_name": "Pepe goose",
+        "smile_path": "/smile/Pepe/Pepe goose.webp",
+        "smile_code": ":pepegoose:"
+      },
+      {
+        "smile_name": "Pepe mac",
+        "smile_path": "/smile/Pepe/Pepe mac.webp",
+        "smile_code": ":pepemac:"
+      },
+      {
+        "smile_name": "Pepe yes sir",
+        "smile_path": "/smile/Pepe/Pepe yes sir.webp",
+        "smile_code": ":pepeyessir:"
+      },
+      {
+        "smile_name": "Pepe Hands Up",
+        "smile_path": "/smile/Pepe/Pepe Hands Up.webp",
+        "smile_code": ":pepe_hands_up:"
+      },
+      {
+        "smile_name": "Pepe fuck you",
+        "smile_path": "/smile/Pepe/Pepe fuck you.webp",
+        "smile_code": ":pepeFuckyou:"
+      },
+      {
+        "smile_name": "Pepe yes",
+        "smile_path": "/smile/Pepe/Pepe yes.webp",
+        "smile_code": ":PepeYes:"
+      },
+      {
+        "smile_name": "Pepe no",
+        "smile_path": "/smile/Pepe/Pepe no.webp",
+        "smile_code": ":PepeNo:"
+      },
+      {
+        "smile_name": "Pepe Delete",
+        "smile_path": "/smile/Pepe/Pepe Delete.webp",
+        "smile_code": ":pepeDel:"
+      },
+      {
+        "smile_name": "Pepe fat",
+        "smile_path": "/smile/Pepe/Pepe fat.webp",
+        "smile_code": ":pepe_fat:"
+      },
+      {
+        "smile_name": "Clown",
+        "smile_path": "/smile/Pepe/Clown.webp",
+        "smile_code": ":pepeclown:"
+      },
+      {
+        "smile_name": "Pepe bloated",
+        "smile_path": "/smile/Pepe/Pepe bloated.webp",
+        "smile_code": ":pepe_bloated:"
+      },
+      {
+        "smile_name": "pepe carlson",
+        "smile_path": "/smile/Pepe/pepe carlson.webp",
+        "smile_code": ":pepecarlson:"
+      },
+      {
+        "smile_name": "Pepe Toast",
+        "smile_path": "/smile/Pepe/Pepe Toast.webp",
+        "smile_code": ":pepeToast:"
+      },
+      {
+        "smile_name": "pepe drink",
+        "smile_path": "/smile/Pepe/pepe drink.webp",
+        "smile_code": ":pepedrink:"
+      },
+      {
+        "smile_name": "Pepe rich",
+        "smile_path": "/smile/Pepe/Pepe rich.webp",
+        "smile_code": ":PepeRich:"
+      },
+      {
+        "smile_name": "pepejew",
+        "smile_path": "/smile/Pepe/pepejew.webp",
+        "smile_code": ":pepejew:"
+      },
+      {
+        "smile_name": "Pepe bear",
+        "smile_path": "/smile/Pepe/Pepe bear.webp",
+        "smile_code": ":pepebear:"
+      },
+      {
+        "smile_name": "Rich",
+        "smile_path": "/smile/Pepe/Rich.webp",
+        "smile_code": ":peperich:"
+      },
+      {
+        "smile_name": "Police",
+        "smile_path": "/smile/Pepe/Police.webp",
+        "smile_code": ":pepepolice:"
+      },
+      {
+        "smile_name": "pepe police",
+        "smile_path": "/smile/Pepe/pepe police.webp",
+        "smile_code": ":pepepolice2:"
+      },
+      {
+        "smile_name": "pepe chill",
+        "smile_path": "/smile/Pepe/pepe chill.webp",
+        "smile_code": ":pepechill:"
+      },
+      {
+        "smile_name": "pepe popcorn",
+        "smile_path": "/smile/Pepe/pepe popcorn.webp",
+        "smile_code": ":pepepopcorn:"
+      },
+      {
+        "smile_name": "pepe pizza",
+        "smile_path": "/smile/Pepe/pepe pizza.webp",
+        "smile_code": ":pepepizza:"
+      },
+      {
+        "smile_name": "Pepe cool",
+        "smile_path": "/smile/Pepe/Pepe cool.webp",
+        "smile_code": ":pepeCool:"
+      },
+      {
+        "smile_name": "Pepe cool",
+        "smile_path": "/smile/Pepe/Pepe cool.webp",
+        "smile_code": ":cool_frog:"
+      },
+      {
+        "smile_name": "Pepe business",
+        "smile_path": "/smile/Pepe/Pepe business.webp",
+        "smile_code": ":pepe_business:"
+      },
+      {
+        "smile_name": "Pepe cool2",
+        "smile_path": "/smile/Pepe/Pepe cool2.webp",
+        "smile_code": ":pepecool2:"
+      },
+      {
+        "smile_name": "Pepe bespectacled",
+        "smile_path": "/smile/Pepe/Pepe bespectacled.webp",
+        "smile_code": ":pepebespectacled:"
+      },
+      {
+        "smile_name": "Pepe delovoy",
+        "smile_path": "/smile/Pepe/Pepe delovoy.webp",
+        "smile_code": ":pepedelovoy:"
+      },
+      {
+        "smile_name": "Pepe knife",
+        "smile_path": "/smile/Pepe/Pepe knife.webp",
+        "smile_code": ":pepeKnife:"
+      },
+      {
+        "smile_name": "piu pau",
+        "smile_path": "/smile/Pepe/piu pau.webp",
+        "smile_code": ":piupau:"
+      },
+      {
+        "smile_name": "Pepe gun",
+        "smile_path": "/smile/Pepe/Pepe gun.webp",
+        "smile_code": ":pepegun:"
+      },
+      {
+        "smile_name": "pepe shock",
+        "smile_path": "/smile/Pepe/pepe shock.webp",
+        "smile_code": ":pepeshock:"
+      },
+      {
+        "smile_name": "Pepe glasses",
+        "smile_path": "/smile/Pepe/Pepe glasses.webp",
+        "smile_code": ":PepeGlasses:"
+      },
+      {
+        "smile_name": "Pepe respect",
+        "smile_path": "/smile/Pepe/Pepe respect.webp",
+        "smile_code": ":pepeshapka:"
+      },
+      {
+        "smile_name": "pepe eyes",
+        "smile_path": "/smile/Pepe/pepe eyes.webp",
+        "smile_code": ":pepeeyes:"
+      },
+      {
+        "smile_name": "pepe boba",
+        "smile_path": "/smile/Pepe/pepe boba.webp",
+        "smile_code": ":pepeboba:"
+      },
+      {
+        "smile_name": "Omg",
+        "smile_path": "/smile/Pepe/Omg.webp",
+        "smile_code": ":pepeomg:"
+      },
+      {
+        "smile_name": "Pepe suspicious",
+        "smile_path": "/smile/Pepe/Pepe suspicious.webp",
+        "smile_code": ":pepesuspicious:"
+      },
+      {
+        "smile_name": "Pepe juice",
+        "smile_path": "/smile/Pepe/Pepe juice.webp",
+        "smile_code": ":pepejuice:"
+      },
+      {
+        "smile_name": "Pepe trash",
+        "smile_path": "/smile/Pepe/Pepe trash.webp",
+        "smile_code": ":PepeMusor:"
+      },
+      {
+        "smile_name": "Pepe dirty",
+        "smile_path": "/smile/Pepe/Pepe dirty.webp",
+        "smile_code": ":pepedirty:"
+      },
+      {
+        "smile_name": "pepewtf",
+        "smile_path": "/smile/Pepe/pepewtf.webp",
+        "smile_code": ":pepewtf:"
+      },
+      {
+        "smile_name": "Kaef",
+        "smile_path": "/smile/Pepe/Kaef.webp",
+        "smile_code": ":pepekaef:"
+      },
+      {
+        "smile_name": "Pepe 4:20",
+        "smile_path": "/smile/Pepe/Pepe 4_20.webp",
+        "smile_code": ":pepe420:"
+      },
+      {
+        "smile_name": "Pepe tux",
+        "smile_path": "/smile/Pepe/Pepe tux.webp",
+        "smile_code": ":pepeTux:"
+      },
+      {
+        "smile_name": "Pepe logout",
+        "smile_path": "/smile/Pepe/Pepe logout.webp",
+        "smile_code": ":pepelogout:"
+      },
+      {
+        "smile_name": "Pepe bye",
+        "smile_path": "/smile/Pepe/Pepe bye.webp",
+        "smile_code": ":pepebye:"
+      },
+      {
+        "smile_name": "PepeHacker",
+        "smile_path": "/smile/Pepe/PepeHacker.webp",
+        "smile_code": ":pepeHacker:"
+      },
+      {
+        "smile_name": "PepeOfftopic",
+        "smile_path": "/smile/Pepe/PepeOfftopic.webp",
+        "smile_code": ":pepeOfftopic:"
+      },
+      {
+        "smile_name": "Pepe box",
+        "smile_path": "/smile/Pepe/Pepe box.webp",
+        "smile_code": ":pepebox:"
+      },
+      {
+        "smile_name": "Pepe clap",
+        "smile_path": "/smile/Pepe/Pepe clap.webp",
+        "smile_code": ":pepeclap:"
+      },
+      {
+        "smile_name": "Pepe go",
+        "smile_path": "/smile/Pepe/Pepe go.webp",
+        "smile_code": ":pepego:"
+      },
+      {
+        "smile_name": "pepe dance4",
+        "smile_path": "/smile/Pepe/pepe dance4.webp",
+        "smile_code": ":pepedance4:"
+      },
+      {
+        "smile_name": "Pepe like",
+        "smile_path": "/smile/Pepe/Pepe like.webp",
+        "smile_code": ":pepelike:"
+      },
+      {
+        "smile_name": "PepeDance3",
+        "smile_path": "/smile/Pepe/PepeDance3.webp",
+        "smile_code": ":pepedance3:"
+      },
+      {
+        "smile_name": "Pepe disco",
+        "smile_path": "/smile/Pepe/Pepe disco.webp",
+        "smile_code": ":pepedisco:"
+      },
+      {
+        "smile_name": "Pepe looking",
+        "smile_path": "/smile/Pepe/Pepe looking.webp",
+        "smile_code": ":pepelooking:"
+      },
+      {
+        "smile_name": "PepeMib",
+        "smile_path": "/smile/Pepe/PepeMib.webp",
+        "smile_code": ":pepeMib:"
+      },
+      {
+        "smile_name": "Pepe kek",
+        "smile_path": "/smile/Pepe/Pepe kek.webp",
+        "smile_code": ":pepekek:"
+      },
+      {
+        "smile_name": "Pepe coffee",
+        "smile_path": "/smile/Pepe/Pepe coffee.webp",
+        "smile_code": ":PepeCoffee:"
+      },
+      {
+        "smile_name": "Pepe F",
+        "smile_path": "/smile/Pepe/Pepe F.webp",
+        "smile_code": ":pepeF:"
+      },
+      {
+        "smile_name": "Pepe Cry",
+        "smile_path": "/smile/Pepe/Pepe Cry.webp",
+        "smile_code": ":pepeCryBig:"
+      },
+      {
+        "smile_name": "Pepe sad hug",
+        "smile_path": "/smile/Pepe/Pepe sad hug.webp",
+        "smile_code": ":pepesadhug:"
+      },
+      {
+        "smile_name": "Sad",
+        "smile_path": "/smile/Pepe/Sad.webp",
+        "smile_code": ":pepesad:"
+      },
+      {
+        "smile_name": "Suicide",
+        "smile_path": "/smile/Pepe/Suicide.webp",
+        "smile_code": ":pepesuicide:"
+      },
+      {
+        "smile_name": "Pepe suicide 2",
+        "smile_path": "/smile/Pepe/Pepe suicide 2.webp",
+        "smile_code": ":pepeSuicide2:"
+      },
+      {
+        "smile_name": "Think",
+        "smile_path": "/smile/Pepe/Think.webp",
+        "smile_code": ":pepethink2:"
+      },
+      {
+        "smile_name": "Pepe mmm",
+        "smile_path": "/smile/Pepe/Pepe mmm.webp",
+        "smile_code": ":frog_mm:"
+      },
+      {
+        "smile_name": "Pepe love",
+        "smile_path": "/smile/Pepe/Pepe love.webp",
+        "smile_code": ":pepeLove:"
+      },
+      {
+        "smile_name": "PepeOK",
+        "smile_path": "/smile/Pepe/PepeOK.webp",
+        "smile_code": ":PepeOK:"
+      },
+      {
+        "smile_name": "Pepe trick",
+        "smile_path": "/smile/Pepe/Pepe trick.webp",
+        "smile_code": ":PepeTrick:"
+      },
+      {
+        "smile_name": "Hm",
+        "smile_path": "/smile/Pepe/Hm.webp",
+        "smile_code": ":pepethink:"
+      },
+      {
+        "smile_name": "Pepe what",
+        "smile_path": "/smile/Pepe/Pepe what.webp",
+        "smile_code": ":pepewhat:"
+      },
+      {
+        "smile_name": "Pepe stupid",
+        "smile_path": "/smile/Pepe/Pepe stupid.webp",
+        "smile_code": ":stupidnewbie:"
+      },
+      {
+        "smile_name": "Dank pepe",
+        "smile_path": "/smile/Pepe/Dank pepe.webp",
+        "smile_code": ":dankpepe:"
+      },
+      {
+        "smile_name": "Pepe cry",
+        "smile_path": "/smile/Pepe/Pepe cry.webp",
+        "smile_code": ":pepecry:"
+      },
+      {
+        "smile_name": "Pepe bruh",
+        "smile_path": "/smile/Pepe/Pepe bruh.webp",
+        "smile_code": ":pepebruh:"
+      },
+      {
+        "smile_name": "Pepe Novoreg",
+        "smile_path": "/smile/Pepe/Pepe Novoreg.webp",
+        "smile_code": ":pepe_novoreg:"
+      },
+      {
+        "smile_name": "Pepe Novoreg",
+        "smile_path": "/smile/Pepe/Pepe Novoreg.webp",
+        "smile_code": ":pepe_novokek:"
+      },
+      {
+        "smile_name": "Yeah",
+        "smile_path": "/smile/Pepe/Yeah.webp",
+        "smile_code": ":frog_ehoo:"
+      },
+      {
+        "smile_name": "Pepe wow",
+        "smile_path": "/smile/Pepe/Pepe wow.webp",
+        "smile_code": ":wow_frog:"
+      },
+      {
+        "smile_name": "Pepe rage",
+        "smile_path": "/smile/Pepe/Pepe rage.webp",
+        "smile_code": ":peperage:"
+      },
+      {
+        "smile_name": "Pepe super rage",
+        "smile_path": "/smile/Pepe/Pepe super rage.webp",
+        "smile_code": ":PepeSuperRage:"
+      },
+      {
+        "smile_name": "Pepe mega rage",
+        "smile_path": "/smile/Pepe/Pepe mega rage.webp",
+        "smile_code": ":pepemegarage:"
+      },
+      {
+        "smile_name": "Pepe cry",
+        "smile_path": "/smile/Pepe/Pepe cry.webp",
+        "smile_code": ":pepecry2:"
+      },
+      {
+        "smile_name": "Pepe smile",
+        "smile_path": "/smile/Pepe/Pepe smile.webp",
+        "smile_code": ":pepesmile:"
+      },
+      {
+        "smile_name": "Pepe wink",
+        "smile_path": "/smile/Pepe/Pepe wink.webp",
+        "smile_code": ":pepewink:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Owo",
+    "smiles": [
+      {
+        "smile_name": "Owo dance",
+        "smile_path": "/smile/Owo/Owo dance.webp",
+        "smile_code": ":owodance:"
+      },
+      {
+        "smile_name": "Owo",
+        "smile_path": "/smile/Owo/Owo.webp",
+        "smile_code": ":owo:"
+      },
+      {
+        "smile_name": "Owo talk",
+        "smile_path": "/smile/Owo/Owo talk.webp",
+        "smile_code": ":owotalk:"
+      },
+      {
+        "smile_name": "Owo noted",
+        "smile_path": "/smile/Owo/Owo noted.webp",
+        "smile_code": ":owonoted:"
+      },
+      {
+        "smile_name": "Owo hmm",
+        "smile_path": "/smile/Owo/Owo hmm.webp",
+        "smile_code": ":owohmm:"
+      },
+      {
+        "smile_name": "Owo shy",
+        "smile_path": "/smile/Owo/Owo shy.webp",
+        "smile_code": ":owoshy:"
+      },
+      {
+        "smile_name": "Owo type",
+        "smile_path": "/smile/Owo/Owo type.webp",
+        "smile_code": ":owo_type:"
+      },
+      {
+        "smile_name": "Owo yessir",
+        "smile_path": "/smile/Owo/Owo yessir.webp",
+        "smile_code": ":owoyessir:"
+      },
+      {
+        "smile_name": "Owo talking",
+        "smile_path": "/smile/Owo/Owo talking.webp",
+        "smile_code": ":owotalking:"
+      },
+      {
+        "smile_name": "Owo fuck",
+        "smile_path": "/smile/Owo/Owo fuck.webp",
+        "smile_code": ":owofuck:"
+      },
+      {
+        "smile_name": "Owo evil",
+        "smile_path": "/smile/Owo/Owo evil.webp",
+        "smile_code": ":owoevil:"
+      },
+      {
+        "smile_name": "Owo love",
+        "smile_path": "/smile/Owo/Owo love.webp",
+        "smile_code": ":owolove:"
+      },
+      {
+        "smile_name": "Owo nono",
+        "smile_path": "/smile/Owo/Owo nono.webp",
+        "smile_code": ":owonono:"
+      },
+      {
+        "smile_name": "Ono",
+        "smile_path": "/smile/Owo/Ono.webp",
+        "smile_code": ":ono:"
+      },
+      {
+        "smile_name": "Owo sad",
+        "smile_path": "/smile/Owo/Owo sad.webp",
+        "smile_code": ":owosad:"
+      },
+      {
+        "smile_name": "Owo nerd",
+        "smile_path": "/smile/Owo/Owo nerd.webp",
+        "smile_code": ":owonerd:"
+      },
+      {
+        "smile_name": "Owo cheerleading",
+        "smile_path": "/smile/Owo/Owo cheerleading.webp",
+        "smile_code": ":owocheerleading:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Мишки",
+    "smiles": [
+      {
+        "smile_name": "Mishka love 2",
+        "smile_path": "/smile/Мишки/Mishka love 2.webp",
+        "smile_code": ":mishkalove2:"
+      },
+      {
+        "smile_name": "mishka chill",
+        "smile_path": "/smile/Мишки/mishka chill.webp",
+        "smile_code": ":mishka_chill:"
+      },
+      {
+        "smile_name": "d3bil",
+        "smile_path": "/smile/Мишки/d3bil.webp",
+        "smile_code": ":d3bil:"
+      },
+      {
+        "smile_name": "nya",
+        "smile_path": "/smile/Мишки/nya.webp",
+        "smile_code": ":nya:"
+      },
+      {
+        "smile_name": "cute dance",
+        "smile_path": "/smile/Мишки/cute dance.webp",
+        "smile_code": ":cutedance:"
+      },
+      {
+        "smile_name": "chilling",
+        "smile_path": "/smile/Мишки/chilling.webp",
+        "smile_code": ":chilling:"
+      },
+      {
+        "smile_name": "cute",
+        "smile_path": "/smile/Мишки/cute.webp",
+        "smile_code": ":cute:"
+      },
+      {
+        "smile_name": "mishka dance",
+        "smile_path": "/smile/Мишки/mishka dance.webp",
+        "smile_code": ":mishkadance:"
+      },
+      {
+        "smile_name": "mishka dance2",
+        "smile_path": "/smile/Мишки/mishka dance2.webp",
+        "smile_code": ":mishkadance2:"
+      },
+      {
+        "smile_name": "mishka hide",
+        "smile_path": "/smile/Мишки/mishka hide.webp",
+        "smile_code": ":mishkahide:"
+      },
+      {
+        "smile_name": "Mishka angry",
+        "smile_path": "/smile/Мишки/Mishka angry.webp",
+        "smile_code": ":mishka_angry:"
+      },
+      {
+        "smile_name": "Mishka jumping",
+        "smile_path": "/smile/Мишки/Mishka jumping.webp",
+        "smile_code": ":mishkajumping:"
+      },
+      {
+        "smile_name": "mishka hug love",
+        "smile_path": "/smile/Мишки/mishka hug love.webp",
+        "smile_code": ":mishkahuglove:"
+      },
+      {
+        "smile_name": "mishka music",
+        "smile_path": "/smile/Мишки/mishka music.webp",
+        "smile_code": ":mishkamusic:"
+      },
+      {
+        "smile_name": "mishka music2",
+        "smile_path": "/smile/Мишки/mishka music2.webp",
+        "smile_code": ":mishkamusic2:"
+      },
+      {
+        "smile_name": "mishka tired",
+        "smile_path": "/smile/Мишки/mishka tired.webp",
+        "smile_code": ":mishkatired:"
+      },
+      {
+        "smile_name": "mishka uwu",
+        "smile_path": "/smile/Мишки/mishka uwu.webp",
+        "smile_code": ":mishkauwu:"
+      },
+      {
+        "smile_name": "mishkalove",
+        "smile_path": "/smile/Мишки/mishkalove.webp",
+        "smile_code": ":mishkalove:"
+      },
+      {
+        "smile_name": "mishkaxz",
+        "smile_path": "/smile/Мишки/mishkaxz.webp",
+        "smile_code": ":mishkaxz:"
+      },
+      {
+        "smile_name": "Mishka bully",
+        "smile_path": "/smile/Мишки/Mishka bully.webp",
+        "smile_code": ":mishkabully:"
+      }
+    ]
+  },
+  {
+    "smile_pack_title": "Сервисы и платежные средства",
+    "smiles": [
+      {
+        "smile_name": "Steam",
+        "smile_path": "/smile/Сервисы и платежные средства/Steam.svg",
+        "smile_code": ":steam:"
+      },
+      {
+        "smile_name": "Epic Games",
+        "smile_path": "/smile/Сервисы и платежные средства/Epic Games.svg",
+        "smile_code": ":eg:"
+      },
+      {
+        "smile_name": "Epic Games",
+        "smile_path": "/smile/Сервисы и платежные средства/Epic Games.svg",
+        "smile_code": ":epicgames:"
+      },
+      {
+        "smile_name": "Telegram",
+        "smile_path": "/smile/Сервисы и платежные средства/Telegram.svg",
+        "smile_code": ":tg:"
+      },
+      {
+        "smile_name": "Discord",
+        "smile_path": "/smile/Сервисы и платежные средства/Discord.svg",
+        "smile_code": ":discord:"
+      },
+      {
+        "smile_name": "VKontakte",
+        "smile_path": "/smile/Сервисы и платежные средства/VKontakte.svg",
+        "smile_code": ":vk:"
+      },
+      {
+        "smile_name": "Instagram",
+        "smile_path": "/smile/Сервисы и платежные средства/Instagram.svg",
+        "smile_code": ":insta:"
+      },
+      {
+        "smile_name": "Instagram",
+        "smile_path": "/smile/Сервисы и платежные средства/Instagram.svg",
+        "smile_code": ":inst:"
+      },
+      {
+        "smile_name": "Instagram",
+        "smile_path": "/smile/Сервисы и платежные средства/Instagram.svg",
+        "smile_code": ":instagram:"
+      },
+      {
+        "smile_name": "Youtube",
+        "smile_path": "/smile/Сервисы и платежные средства/Youtube.svg",
+        "smile_code": ":youtube:"
+      },
+      {
+        "smile_name": "Market",
+        "smile_path": "/smile/Сервисы и платежные средства/Market.svg",
+        "smile_code": ":market:"
+      },
+      {
+        "smile_name": "Twitch",
+        "smile_path": "/smile/Сервисы и платежные средства/Twitch.svg",
+        "smile_code": ":twitch:"
+      },
+      {
+        "smile_name": "Rub",
+        "smile_path": "/smile/Сервисы и платежные средства/Rub.svg",
+        "smile_code": ":rub:"
+      },
+      {
+        "smile_name": "Sber",
+        "smile_path": "/smile/Сервисы и платежные средства/Sber.svg",
+        "smile_code": ":sber:"
+      },
+      {
+        "smile_name": "YooMoney",
+        "smile_path": "/smile/Сервисы и платежные средства/YooMoney.svg",
+        "smile_code": ":yoomoney:"
+      },
+      {
+        "smile_name": "YooMoney",
+        "smile_path": "/smile/Сервисы и платежные средства/YooMoney.svg",
+        "smile_code": ":yandex:"
+      },
+      {
+        "smile_name": "Payeer",
+        "smile_path": "/smile/Сервисы и платежные средства/Payeer.svg",
+        "smile_code": ":payeer:"
+      },
+      {
+        "smile_name": "Exodus",
+        "smile_path": "/smile/Сервисы и платежные средства/Exodus.svg",
+        "smile_code": ":exodus:"
+      },
+      {
+        "smile_name": "Webmoney",
+        "smile_path": "/smile/Сервисы и платежные средства/Webmoney.svg",
+        "smile_code": ":webmoney:"
+      },
+      {
+        "smile_name": "Webmoney",
+        "smile_path": "/smile/Сервисы и платежные средства/Webmoney.svg",
+        "smile_code": ":wm:"
+      },
+      {
+        "smile_name": "Bitcoin",
+        "smile_path": "/smile/Сервисы и платежные средства/Bitcoin.svg",
+        "smile_code": ":bitcoin:"
+      },
+      {
+        "smile_name": "Ethereum",
+        "smile_path": "/smile/Сервисы и платежные средства/Ethereum.svg",
+        "smile_code": ":eth:"
+      },
+      {
+        "smile_name": "Tether",
+        "smile_path": "/smile/Сервисы и платежные средства/Tether.svg",
+        "smile_code": ":tether:"
+      },
+      {
+        "smile_name": "Monero",
+        "smile_path": "/smile/Сервисы и платежные средства/Monero.svg",
+        "smile_code": ":xmr:"
+      },
+      {
+        "smile_name": "Escape from Tarkov",
+        "smile_path": "/smile/Сервисы и платежные средства/Escape from Tarkov.svg",
+        "smile_code": ":escapefromtarkov:"
+      },
+      {
+        "smile_name": "Fortnite",
+        "smile_path": "/smile/Сервисы и платежные средства/Fortnite.svg",
+        "smile_code": ":fortnite:"
+      },
+      {
+        "smile_name": "Minecraft",
+        "smile_path": "/smile/Сервисы и платежные средства/Minecraft.svg",
+        "smile_code": ":minecraft:"
+      },
+      {
+        "smile_name": "Riot",
+        "smile_path": "/smile/Сервисы и платежные средства/Riot.svg",
+        "smile_code": ":riot:"
+      },
+      {
+        "smile_name": "Uplay",
+        "smile_path": "/smile/Сервисы и платежные средства/Uplay.svg",
+        "smile_code": ":uplay:"
+      }
+    ]
+  }
+]
